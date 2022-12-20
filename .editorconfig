@@ -1,0 +1,18 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# For VS Code users, you will need to add/amend these settings;
+# "editor.formatOnSave": true,
+# "editor.formatOnSaveMode": "file",
+# and install this extension:
+# https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+charset = utf-8
+indent_style = space
+indent_size = 2

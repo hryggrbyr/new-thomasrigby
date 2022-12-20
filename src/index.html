@@ -1,0 +1,17 @@
+---
+  layout: 'layouts/default'
+  title: hello world
+  hero:
+    size: full-bleed half-screen
+    image:
+      src: /assets/images/IMG_20220928_062920_hdr.jpg
+      alt: View through a fence on a foggy Autumn morning
+      credit:
+        name: Thomas Rigby
+        url: https://thomasrigby.com
+---
+
+{% include 'partials/components/hero.html' %}
+<p class="ft-wt-stone ft-sz-brezier">I'm {{ me.name.knownAs }}!</p>
+<p>I have been building things for the internet for more than {{ me.startLength }} years.</p>
+<p>{{ me.bio }}</p>

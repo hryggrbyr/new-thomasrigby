@@ -1,0 +1,6 @@
+{% set css %}
+  {% include "./reading-indicator.css" %}
+{% endset %}
+<style>{{ css | cssmin | safe }}</style>
+<progress class="no-print" data-js-reading-indicator min="0" max="100" value="0" aria-label="Your progress on this article."></progress>
+<script src="/js/reading-indicator.js" defer></script>

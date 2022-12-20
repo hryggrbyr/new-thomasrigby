@@ -1,0 +1,14 @@
+{% extends 'layouts/base.html' %}
+
+{% block head %}
+  <link rel="stylesheet" href="/css/post.css" />
+{% endblock %}
+
+{% block main %}
+  {% include 'partials/components/hero.html' %}
+  {% include 'partials/post/post-meta.html' %}
+  <article data-article class="stack cms-content" id="skip">
+    {{ content | safe }}
+  </article>
+  {% include 'partials/post/article-end-indicator/fin.html' %}
+{% endblock %}

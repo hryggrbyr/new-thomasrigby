@@ -1,0 +1,135 @@
+:root {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  box-sizing: border-box;
+}
+
+:root * {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-face-main);
+  font-size: var(--size-pica);
+  font-weight: var(--font-weight-pound);
+  line-height: var(--lh-wide);
+}
+
+body .site-header,
+body .site-footer {
+  position: relative;
+  background-color: var(--color-smoke);
+  padding-top: var(--size-pica);
+  padding-bottom: var(--size-pica);
+}
+
+body .site-footer {
+  font-size: var(--size-minion);
+  margin-top: auto;
+}
+
+body .site-header:after,
+body .site-footer:before {
+  content: "";
+  display: block;
+  background: var(--gradient-rainbow);
+  width: 100%;
+  height: var(--size-stroke);
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+body .site-header:after {
+  top: auto;
+  bottom: 0;
+}
+body .site-footer:before {
+  top: 0;
+  bottom: auto;
+}
+
+main {
+  padding-bottom: var(--width-spacing);
+}
+
+a {
+  --color-glow: var(--color-brand-primary-glow);
+  --color-link: var(--color-brand-primary);
+  color: var(--color-link);
+  text-shadow: 0 0 1ch var(--color-glow);
+  transition: ease 100ms;
+}
+
+a:active {
+  --color-glow: var(--color-weiss);
+}
+
+a:visited {
+  --color-link: var(--color-brand-primary-shade);
+}
+
+a:hover {
+  --color-link: var(--color-brand-primary-tint);
+}
+
+.home-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.logo {
+  display: flex;
+  flex-wrap: no-wrap;
+  justify-content: first baseline;
+  align-items: center;
+  gap: 1ch;
+}
+
+.logo img {
+  height: 2em;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  background-color: var(--color-fog);
+  --color-border: var(--color-fog);
+  --width-spacing: var(--size-pica);
+  --width-gutters: var(--size-pica);
+}
+.card img {
+  max-width: 100%;
+}
+.card footer {
+  margin-top: auto;
+  border-right: 0;
+  border-bottom: 0;
+  border-left: 0;
+  padding-top: var(--width-spacing);
+}
+.card .button {
+  display: inline-block;
+  margin-top: var(--width-spacing);
+  margin-bottom: var(--width-spacing);
+}
+.card footer table {
+
+}
+.card footer table tr th,
+.card footer table tr td {
+  text-align: left;
+}
+.card footer table tr th {
+  padding-inline-end: 2ch;
+}
+.card footer table tr td {
+  text-align: left;
+}

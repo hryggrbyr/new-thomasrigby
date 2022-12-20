@@ -1,0 +1,27 @@
+<article class="card | border radius shadow">
+  <img src="{{ book.cover }}" alt="" role="presentation" />
+  <header>
+    <h3 class="spacing gutters | ft-fc-accent ft-sz-pica ft-lh-fine">{{ book.title | safe }}</h3>
+  </header>
+  <div class="gutters spacing stack">{{ book.description | safe }}</div>
+  <footer class="spacing gutters border | ft-sz-minion">
+    <table>
+      <tbody>
+        <tr>
+          <th>Author</th>
+          <td>
+            {% for author in book.authors %}
+              <cite>{{ author }}</cite>
+            {% endfor %}
+          </td>
+        </tr>
+        <tr>
+          <th>Published</th>
+          <td>
+            <time>{{ book.publishedDate | humanReadableDate }}</time>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </footer>
+</article>

@@ -1,0 +1,5 @@
+<nav class="flex centered-vt" style="--grid-gap: 1ch;">
+  {% for link in navigation.primary %}
+    <a class="button sml text tertiary" href="{{ link.url }}">{{ link.text }}</a>
+  {% endfor %}
+</nav>

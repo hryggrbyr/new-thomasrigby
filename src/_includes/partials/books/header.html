@@ -1,0 +1,10 @@
+<div class="full-bleed glass" style="position: sticky; top: 0; z-index: 10;">
+  <div class="wrapper gutters | flex centered-vt space-between" style="--grid-gap: 1ch;">
+    {% if title %}
+      <h2 class="ft-fc-accent ft-sz-trafalgar ft-lh-mean">{{ title }}</h2>
+    {% endif %}
+    {% if url %}
+      <a rel="nofollow noopener noreferrer" target="_blank" href="{{ url }}">View on Bookwyrm</a>
+    {% endif %}
+  </div>
+</div>

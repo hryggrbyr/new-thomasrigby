@@ -1,0 +1,123 @@
+@import 'button.css';
+@import 'hero.css';
+
+.icon {
+  display: flex;
+  place-items: center;
+}
+
+.avatar {
+  border-radius: 100%;
+  overflow: hidden;
+  aspect-ratio: 1/1;
+}
+
+.flex {
+  display: flex !important;
+  flex-wrap: wrap;
+  margin: calc(-1 * var(--grid_gap, 1rem));
+}
+.flex > * {
+  margin: var(--grid-gap, 1rem);
+}
+.flex.centered-vt {
+  align-items: center;
+}
+.flex.centered-hz {
+  justify-content: center;
+}
+.flex.space-between {
+  justify-content: space-between;
+}
+.flex.layout-even > * {
+  flex-grow: 1;
+}
+
+.grid {
+  width: 100%;
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(var(--width-card), 1fr));
+  grid-gap: var(--grid-gap);
+}
+
+.stack > *:not(style) + *:not(style) {
+  display: block;
+  margin-top: var(--stack-gap, 1.5em);
+}
+
+.wrapper {
+  width: 100%;
+  max-width: var(--width-central, 80%);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.gutters {
+  padding-right: var(--width-gutters, 5vw);
+  padding-left: var(--width-gutters, 5vw);
+}
+
+.spacing {
+  padding-top: var(--width-spacing, 5vw);
+  padding-bottom: var(--width-spacing, 5vw);
+}
+
+.aspect-ratio {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.aspect-ratio > * {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.full-bleed {
+  width: 100vw;
+  max-width: 100vw;
+  margin-left: calc(50% - 50vw);
+}
+
+.glass {
+  background-color: var(--color-smoke);
+  backdrop-filter: blur(var(--blur));
+}
+
+/* https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html */
+.sr-only {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  outline: none !important;
+  font-size: 0 !important;
+}
+
+/*# sourceMappingURL=utility.css.map */
+
+.border {
+  border-width: var(--size-stroke);
+  border-style: solid;
+  border-color: var(--color-border, currentColor);
+}
+
+.radius {
+  border-radius: var(--radius);
+}
+
+.shadow {
+  box-shadow: 0 0 var(--size-demipica) var(--color-smoke);
+}
+
+.call-to-action {
+  margin-top: var(--width-spacing);
+  margin-bottom: var(--width-spacing);
+}

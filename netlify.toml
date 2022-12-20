@@ -1,0 +1,13 @@
+[[plugins]]
+  package = "netlify-plugin-mastodon-alias"
+
+  [plugins.inputs]
+    username = "hryggrbyr"
+    instance = "mastodon.org.uk"
+    strictUsername = "hryggrbyr"
+
+[[plugins]]
+package = "netlify-plugin-cache"
+
+  [plugins.inputs]
+  paths = [ ".cache" ]

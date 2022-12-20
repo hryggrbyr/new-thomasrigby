@@ -1,0 +1,18 @@
+.category-pills {
+  display: flex;
+  gap: 1ch;
+}
+.category-pill {
+  border-width: var(--size-stroke);
+  border-style: solid;
+  border-color: currentColor;
+  border-radius: 500rem;
+  line-height: 1;
+  padding-top: 0.5em;
+  padding-right: 0.75em;
+  padding-bottom: 0.5em;
+  padding-left: 0.75em;
+}
+a.category-pill {
+  text-decoration: none;
+}

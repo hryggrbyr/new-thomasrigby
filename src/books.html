@@ -1,0 +1,37 @@
+---
+  layout: 'layouts/default'
+  title: Books
+  description:
+---
+
+{% block main %}
+  {% include 'partials/components/hero.html' %}
+  <div class="cms-content | stack">
+    <p>A certainly not exhaustive list of the books I have read, the books I would like to read, and the books I am currently reading.</p>
+    <p>This list has initially come from Goodreads but, as part of my ongoing Personal Web Project™️, I will be moving this here permanently.</p>
+  </div>
+
+  {% if bookwyrm.reading.books.length %}
+    {% set title = bookwyrm.reading.title %}
+    {% set url = bookwyrm.reading.url %}
+    {% set label = bookwyrm.reading.label %}
+    {% set books = bookwyrm.reading.books %}
+    {% include 'partials/books/section.html' %}
+  {% endif %}
+
+  {% if bookwyrm['to-read'].books.length %}
+    {% set title = bookwyrm['to-read'].title %}
+    {% set url = bookwyrm['to-read'].url %}
+    {% set label = bookwyrm['to-read'].label %}
+    {% set books = bookwyrm['to-read'].books %}
+    {% include 'partials/books/section.html' %}
+  {% endif %}
+
+  {% if bookwyrm.read.books.length %}
+    {% set title = bookwyrm.read.title %}
+    {% set url = bookwyrm.read.url %}
+    {% set label = bookwyrm.read.label %}
+    {% set books = bookwyrm.read.books %}
+    {% include 'partials/books/section.html' %}
+  {% endif %}
+{% endblock %}

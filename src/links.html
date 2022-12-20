@@ -1,0 +1,34 @@
+---
+  layout: 'layouts/default'
+  title: Links
+  description: Where can you find me elsewhere online? Here!
+  hero:
+    size: full-bleed half-screen
+    image:
+      src: /assets/images/62ddf7754a991f67c759523fdff57511b7a0cd07bbbe6b6547ecefcc771bd120.png
+      alt: Chain links
+---
+
+{% block head %}
+  <link rel="stylesheet" href="/css/cms-content.css" />
+{% endblock %}
+
+{% block main %}
+  {% include 'partials/components/hero.html' %}
+  <div class="cms-content">
+    <p class="intro">{{ description }}</p>
+    <ul>
+      {% for link in links %}
+        <li>
+          <a
+            class="button med text secondary"
+            href="{{ link.url }}"
+            {% include 'partials/atom/external.html' %}
+          >
+            {{ link.name }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endblock %}

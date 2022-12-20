@@ -1,0 +1,17 @@
+# Misc
+*.log
+npm-debug.*
+*.scss
+*.log
+*.swp
+.DS_Store
+Thumbs.db
+.sass-cache
+.env
+.cache
+
+# the dreaded node_modules
+node_modules
+
+# distribution files
+dist

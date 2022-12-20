@@ -1,0 +1,11 @@
+{% if hero.title %}
+  {% set title = hero.title %}
+{% endif %}
+
+{% if hero.image.src %}
+  <div class="hero {{ hero.size or 'full-bleed micro'}}">
+    {% image hero.image.src, hero.image.alt %}
+  </div>
+{% endif %}
+
+{% include 'partials/common/page-header.html' %}

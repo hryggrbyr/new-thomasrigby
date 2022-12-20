@@ -1,0 +1,13 @@
+User-agent: *
+Crawl-delay: 10
+
+User-agent: voltron
+Disallow: /
+
+User-agent: 008
+Disallow: /
+
+User-agent: Slurp
+Crawl-delay: 1
+
+Sitemap: https://thomasrigby.com/sitemap.xml

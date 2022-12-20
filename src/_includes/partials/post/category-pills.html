@@ -1,0 +1,9 @@
+{% set css %}
+  {% include "./category-pills.css" %}
+{% endset %}
+<style>{{ css | cssmin | safe }}</style>
+<div class="category-pills">
+  {% for tag in tags %}
+    <a class="category-pill | ft-sz-{{ size }}" href="/tags/{{ tag }}">{{ tag }}</a>
+  {% endfor %}
+</div>

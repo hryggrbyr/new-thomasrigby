@@ -1,0 +1,8 @@
+{% set css %}
+  {% include "./fin.css" %}
+{% endset %}
+<style>{{ css | cssmin | safe }}</style>
+<hr class="sr-only"/>
+<p class="fin">
+  <span>Fin</span>
+</p>

@@ -1,0 +1,34 @@
+{
+  "name": "new.thomasrigby.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npx eleventy --serve",
+    "build": "npx eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "isomorphic-fetch": "^3.0.0",
+    "netlify-plugin-cache": "^1.0.3"
+  },
+  "devDependencies": {
+    "@11ty/eleventy-fetch": "^3.0.0",
+    "@11ty/eleventy-img": "^2.0.1",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "@pborenstein/eleventy-md-syntax-highlight": "^1.1.0",
+    "@quasibit/eleventy-plugin-schema": "^1.10.0",
+    "@quasibit/eleventy-plugin-sitemap": "^2.2.0",
+    "clean-css": "^5.3.1",
+    "eleventy-plugin-helmet": "^0.2.2",
+    "eleventy-plugin-pwa": "^1.0.8",
+    "excerpts": "^0.0.3",
+    "html-minifier-terser": "^7.1.0",
+    "rss-parser": "^3.12.0",
+    "strumenti": "^1.0.9"
+  }
+}

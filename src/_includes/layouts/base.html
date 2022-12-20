@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include 'partials/common/html/index.html' %}
+  {% block head %}
+  {% endblock %}
+</head>
+<body>
+  <a href="#skip" class="sr-only">Skip to content</a>
+  {% include 'partials/common/masthead/index.html' %}
+  <main class="wrapper gutters stack">
+
+    {% block main %}
+      Loading&hellip;
+    {% endblock %}
+
+    {% include 'partials/common/photo-credit.html' %}
+
+  </main>
+  <div class="wrapper gutters stack">
+    {% include 'partials/components/call-to-action-rss.html' %}
+  </div>
+  {% include 'partials/common/footer/index.html' %}
+  {% include 'partials/common/sprites.html' %}
+</body>
+</html>

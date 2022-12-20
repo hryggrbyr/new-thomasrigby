@@ -1,0 +1,9 @@
+{% set wordsLength = content | safe | wordCount %}
+{% set count = wordsLength | humanReadableNumber %}
+{% set time = wordsLength | readingTime %}
+
+<p class="no-print">
+  At {{ count }} words, this article should take about {{ time }} to read.
+</p>
+
+{% include 'partials/post/reading-indicator/reading-indicator.html' %}

@@ -1,0 +1,21 @@
+---
+layout: 'layouts/default'
+title: {{ tag }}
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - post
+permalink: /tags/{{ tag }}/
+---
+{% set title = "Tagged as &ldquo;" + tag + "&rdquo;" %}
+<section>
+  {% include 'partials/components/hero.html' %}
+  <div class="grid">
+    {% set taglist = collections[ tag ] %}
+    {% for post in taglist | reverse %}
+      {% include 'partials/components/card.html' %}
+    {% endfor %}
+  </div>
+</section>

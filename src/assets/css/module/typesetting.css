@@ -1,0 +1,108 @@
+.hero-title {
+  background-image: var(--gradient-rainbow);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  @supports (-moz-appearance: none) {
+    background-attachment: scroll;
+  }
+}
+
+.ft-sz-canon {
+  font-size: var(--size-canon);
+}
+
+.ft-sz-trafalgar {
+  font-size: var(--size-trafalgar);
+}
+
+.ft-sz-paragon {
+  font-size: var(--size-paragon);
+}
+
+.ft-sz-doublepica {
+  font-size: var(--size-doublepica);
+}
+
+.ft-sz-primer {
+  font-size: var(--size-primer);
+}
+
+.ft-sz-brezier {
+  font-size: var(--size-brezier);
+}
+
+.ft-sz-pica {
+  font-size: var(--size-pica);
+}
+
+.ft-sz-minion {
+  font-size: var(--size-minion);
+}
+
+.ft-sz-demipica {
+  font-size: var(--size-demipica);
+}
+
+.ft-fc-main {
+  font-family: var(--font-face-main);
+}
+
+.ft-fc-accent {
+  font-family: var(--font-face-accent);
+}
+
+.ft-fc-code {
+  font-family: var(--font-face-code);
+}
+
+.ft-wt-ounce {
+  font-weight: var(--font-weight-ounce);
+}
+
+.ft-wt-pound {
+  font-weight: var(--font-weight-pound);
+}
+
+.ft-wt-stone {
+  font-weight: var(--font-weight-stone);
+}
+
+.ft-lh-fine {
+  line-height: var(--lh-fine);
+}
+
+.ft-lh-slim {
+  line-height: var(--lh-slim);
+}
+
+.ft-lh-mean {
+  line-height: var(--lh-mean);
+}
+
+.ft-lh-wide {
+  line-height: var(--lh-wide);
+}
+
+.ft-lh-vast {
+  line-height: var(--lh-vast);
+}
+
+.ft-centered {
+  text-align: center;
+}
+
+.ft-uppercase {
+  text-transform: uppercase;
+}
+
+.ft-number {
+  font-variant-numeric: tabular-nums;
+}
+
+p {
+  max-width: 67ch;
+  line-height: 1.6em;
+}

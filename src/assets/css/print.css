@@ -1,0 +1,109 @@
+@media print {
+  :root {
+    background-color: #fff;
+    color: #000;
+  }
+  body {
+    display: block !important;
+    height: auto;
+    min-height: 1cm;
+    margin: 0;
+    font-family: serif;
+    font-size: 12pt;
+  }
+
+  .site-header,
+  .site-footer,
+  nav {
+    display: none !important;
+  }
+
+  .gutters {
+    padding: 1cm;
+  }
+
+  .grid {
+    display: block !important;
+  }
+
+  * {
+    background-image: none !important;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+
+  img:before {
+    content: "> "attr(alt) ".";
+    display: block;
+    margin: 0.5cm 0;
+    padding: 0.5cm;
+    border: 1px solid currentColor;
+  }
+
+  main:after {
+    content: "Copyright Thomas Rigby. Please see thomasrigby.com for the latest version.";
+    display: block;
+    margin-top: 2cm;
+  }
+
+  main:before {
+    content: "thomasrigby.com";
+    display: block;
+    margin-bottom: 2cm;
+  }
+
+  main article *+* {
+    margin-top: 1em;
+  }
+
+  a,
+  a:visited,
+  a:active,
+  a:hover {
+    color: #00f;
+    font-weight: bold;
+  }
+
+  a::after {
+    content: " ("attr(href) ")";
+    font-weight: normal;
+    word-break: break-all;
+  }
+
+  h1 {
+    break-before: always;
+  }
+
+  table,
+  img,
+  svg {
+    break-inside: avoid;
+  }
+
+  /* target all pages */
+  @page {
+    margin: 2cm;
+  }
+
+  /* target the first page only */
+  @page :first {
+
+  }
+
+  /* target left (even-numbered) pages only */
+  @page :left {
+  }
+
+  /* target right (odd-numbered) pages only */
+  @page :right {
+  }
+
+  .no-print {
+    display: none !important;
+  }
+}

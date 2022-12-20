@@ -1,0 +1,14 @@
+---
+layout: 'layouts/default'
+title: Articles
+description: Articles I have written
+---
+
+<section>
+  {% include 'partials/common/page-header.html' %}
+  <div class="grid">
+    {% for post in collections.posts | reverse %}
+      {% include 'partials/components/card.html' %}
+    {% endfor %}
+  </div>
+</section>
