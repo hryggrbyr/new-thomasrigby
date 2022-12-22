@@ -126,10 +126,15 @@ a:hover {
 .card footer table tr th,
 .card footer table tr td {
   text-align: left;
+  vertical-align: top;
 }
 .card footer table tr th {
   padding-inline-end: 2ch;
 }
 .card footer table tr td {
   text-align: left;
+}
+.card footer table tr td ul {
+  margin: 0;
+  padding-left: 0;
 }

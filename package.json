@@ -26,9 +26,9 @@
     "clean-css": "^5.3.1",
     "eleventy-plugin-helmet": "^0.2.2",
     "eleventy-plugin-pwa": "^1.0.8",
-    "excerpts": "^0.0.3",
+    "excerpts": "^0.0.1",
     "html-minifier-terser": "^7.1.0",
-    "rss-parser": "^3.12.0",
-    "strumenti": "^1.0.9"
+    "strumenti": "^1.0.9",
+    "to-title-case": "^1.0.0"
   }
 }
