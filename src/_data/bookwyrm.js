@@ -37,13 +37,14 @@ const getBook = async ({
     const book = {
       authors,
       id,
-      seriesNumber,
-      subjects
+      seriesNumber
     }
     if (title) book.title = toTitleCase(title)
     if (subtitle) book.subtitle = toTitleCase(subtitle)
     if (series) book.series = toTitleCase(series)
     if (description) book.description = excerpt(description)
+    if (subjects && subjects.length) book.subjects = [...new Set(subjects.map(x => x.split('-')).flat().map(x => x.split('-')).flat().map(x => x.trim()).filter(Boolean))]
+    // console.log(book.subjects)
     book.publishedDate = new Date(publishedDate)
     book.cover = cover ? cover.url : null
     return book
