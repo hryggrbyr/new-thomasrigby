@@ -1,9 +1,7 @@
 const EleventyFetch = require('@11ty/eleventy-fetch');
 const fetch = require('isomorphic-fetch');
 const excerpt = require('excerpts');
-const Parser = require('rss-parser');
-
-const parser = new Parser();
+const toTitleCase = require('to-title-case');
 
 const getUrl = async (url) => await EleventyFetch(url, {
   duration: '1w',
@@ -28,16 +26,25 @@ const getBook = async ({
     const authors = await Promise.all(bookData.authors.map(getAuthor));
     const {
       cover,
-      // description,
+      description,
       publishedDate,
       title,
+      subtitle,
+      series,
+      seriesNumber,
+      subjects
     } = bookData
     const book = {
       authors,
       id,
-      title,
+      seriesNumber
     }
-    // book.description = excerpt(description)
+    if (title) book.title = toTitleCase(title)
+    if (subtitle) book.subtitle = toTitleCase(subtitle)
+    if (series) book.series = toTitleCase(series)
+    if (description) book.description = excerpt(description)
+    if (subjects && subjects.length) book.subjects = [...new Set(subjects.map(x => x.split('-')).flat().map(x => x.split('-')).flat().map(x => x.trim()).filter(Boolean))]
+    // console.log(book.subjects)
     book.publishedDate = new Date(publishedDate)
     book.cover = cover ? cover.url : null
     return book
