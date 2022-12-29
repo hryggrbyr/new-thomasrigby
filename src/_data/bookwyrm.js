@@ -27,6 +27,7 @@ const getBook = async ({
     const {
       cover,
       description,
+      firstPublishedDate,
       publishedDate,
       title,
       subtitle,
@@ -45,7 +46,7 @@ const getBook = async ({
     if (description) book.description = excerpt(description)
     if (subjects && subjects.length) book.subjects = [...new Set(subjects.map(x => x.split('-')).flat().map(x => x.split('-')).flat().map(x => x.trim()).filter(Boolean))]
     // console.log(book.subjects)
-    book.publishedDate = new Date(publishedDate)
+    book.publishedDate = new Date(publishedDate || firstPublishedDate)
     book.cover = cover ? cover.url : null
     return book
   }
