@@ -25,9 +25,9 @@ const eleventy = config => {
   config.addPlugin(html);
 
   // Pass-through
-  config.addPassthroughCopy({ [`${path.assets}/assets/images/favicons/*`]: '/' });
+  config.addPassthroughCopy({ [`${path.assets}/images/favicons/*`]: '/' });
   config.addPassthroughCopy({ [`${path.src}/**/*.js`]: '/js' });
-  config.addPassthroughCopy({ [`${path.assets}/**/*.css`]: '/css' });
+  config.addPassthroughCopy({ [`${path.assets}/css/**/*.css`]: '/css' });
   config.addPassthroughCopy({ [`${path.assets}/fonts/*.*`]: '/fonts' });
   // config.addPassthroughCopy({ [`${path.assets}/assets/images/**/*.*`]: '/assets/images' });
   config.addPassthroughCopy(`${path.src}/robots.txt`);

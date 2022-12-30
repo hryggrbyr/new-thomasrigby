@@ -1,5 +1,9 @@
 module.exports = {
-  primary: [
+  primary: [{
+      label: 'home',
+      url: '/',
+      text: 'Home'
+    },
     {
       label: 'links',
       url: '/links',
@@ -16,8 +20,7 @@ module.exports = {
       text: 'Books'
     },
   ],
-  footer: [
-    {
+  footer: [{
       label: 'rss',
       url: '/feed.xml',
       text: 'RSS'

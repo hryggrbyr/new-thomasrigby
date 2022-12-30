@@ -1,0 +1,131 @@
+@import 'reset.css';
+@import 'variables.css';
+@import 'utility.css';
+
+:root {
+  background-color: var(--color-background, whitesmoke);
+  color: var(--color-foreground, #222);
+}
+
+html {
+  color-scheme: light dark;
+}
+
+body {
+  font-family: var(--font-face-main, sans-serif);
+  font-size: 1rem;
+  line-height: 1.6em;
+}
+
+svg,
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+pre code {
+  white-space: pre-wrap;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-face-accent, serif);
+  font-weight: bold;
+  margin-bottom: 0.8em;
+}
+
+p {
+  max-width: 67ch;
+}
+
+p+p {
+  margin-top: 0.8em;
+}
+
+a:not(.button) {
+  font-weight: inherit;
+  color: var(--color-link, dodgerblue);
+  text-decoration: underline;
+  text-decoration-skip-ink: auto;
+  text-decoration-color: currentColor;
+}
+
+a:not(.button):visited {
+  color: var(--color-link-visited, rebeccapurple);
+}
+
+a:not(.button):hover {
+  color: var(--color-link-hove, deeppink);
+}
+
+a:not(.button):active {
+  color: var(--color-link-active, indianred);
+}
+
+.logo {
+  display: flex;
+  flex-wrap: no-wrap;
+  justify-content: first baseline;
+  align-items: center;
+  gap: 1ch;
+}
+
+.logo img {
+  height: 2em;
+}
+
+.hero-title {
+  background-image: var(--gradient-rainbow);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  @supports (-moz-appearance: none) {
+    background-attachment: scroll;
+  }
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  background-color: var(--color-fog, rgba(255, 255, 255, 0.15));
+  --color-border: var(--color-fog, rgba(255, 255, 255, 0.15));
+  --width-spacing: var(--size-pica, 0.75rem);
+  --width-gutters: var(--size-pica, 0.75rem);
+}
+.card img {
+  max-width: 100%;
+}
+.card footer {
+  margin-top: auto;
+  border-right: 0;
+  border-bottom: 0;
+  border-left: 0;
+  padding-top: var(--width-spacing);
+}
+.card .button {
+  display: inline-block;
+  margin-top: var(--width-spacing);
+  margin-bottom: var(--width-spacing);
+}
+.card footer table {
+  font-size: 0.8em;
+}
+.card footer table tr th,
+.card footer table tr td {
+  text-align: left;
+  vertical-align: top;
+}
+.card footer table tr th {
+  padding-inline-end: 2ch;
+}
+.card footer table tr td {
+  text-align: left;
+}
+.card footer table tr td ul {
+  margin: 0;
+  padding-left: 0;
+}

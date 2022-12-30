@@ -1,0 +1,22 @@
+<article class="card | border radius shadow">
+  <header>
+    <h3 class="spacing gutters | ft-fc-accent ft-sz-paragon ft-lh-fine">{{ post.data.title | safe }}</h3>
+  </header>
+  <div class="gutters spacing">{{ post.data.description | safe }}</div>
+  <footer class="spacing gutters border">
+    <a class="button med ghost secondary breakout" href="{{ post.url }}">Continue reading…</a>
+    <div>
+      <small>
+        {% set date = post.date %}
+        {% include 'partials/post/post-date.html' %}
+      </small>
+      <p>
+        {% set size = "minion" %}
+        {% set tags = post.data.tags %}
+        {% for tag in tags %}
+          <small class="button text sml tertiary">{{ tag }}</small>
+        {% endfor %}
+      </p>
+    </div>
+  </footer>
+</article>

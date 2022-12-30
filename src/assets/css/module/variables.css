@@ -15,20 +15,48 @@
 }
 
 :root {
-  --color-nightshift: black;
-  --color-boulder: dimgray;
-  --color-concrete: gray;
-  --color-alabaster: lightgray;
-  --color-whitesmoke: whitesmoke;
-  --color-weiss: white;
-  --color-smoke: rgba(0, 0, 0, 0.33);
-  --color-fog: rgba(255, 255, 255, 0.15);
-  --color-mist: rgba(255, 255, 255, 0.0625);
+  --font-face-accent: 'Sentient',
+  Georgia,
+  'Times New Roman',
+  Times,
+  serif;
 
-  --color-success: hsl(120, 55%, 61%);
-  --color-warning: hsl(19, 55%, 61%);
-  --color-failure: hsl(0, 55%, 61%);
-  --color-message: hsl(210, 55%, 61%);
+--font-face-main: -apple-system,
+  BlinkMacSystemFont,
+  "Segoe UI",
+  Roboto,
+  Helvetica,
+  Arial,
+  sans-serif,
+  "Apple Color Emoji",
+  "Segoe UI Emoji",
+  "Segoe UI Symbol";
+
+--font-face-code: 'DM Mono',
+  'Operator Mono',
+  'Fantasque Sans Mono',
+  'Dank Mono',
+  'Hack',
+  'Fira Code',
+  'Fira Mono',
+  'IBM Plex Mono',
+  'DejaVu Sans Mono',
+  'Roboto Mono',
+  'Everson Mono',
+  'Source Code Pro',
+  Consolas,
+  Monaco,
+  'Andale Mono',
+  'Ubuntu Mono',
+  monospace;
+
+  --width-central: 1280px;
+  --width-card: 14rem;
+  --grid-gap: 2rem;
+
+
+
+  --color-smoke: rgba(0, 0, 0, 0.33);
 
   --color-midnight: rgba(3, 18, 28, 1);
 
@@ -53,124 +81,7 @@
 
   --gradient-rainbow: linear-gradient(var(--gradient), var(--color-rainbow));
 
-  --color-chrome:
-    transparent 15%,
-    rgba(255,255,255,0.1),
-    rgba(255,255,255,0.3) 50%,
-    rgba(255,255,255,0.1),
-    transparent 85%;
+  --color-background: var(--color-midnight);
+  --color-foreground: whitesmoke;
 
-  --gradient-chrome: linear-gradient(var(--gradient), var(--color-chrome));
-
-  --color-brand-primary: var(--color-roygbiv-i);
-  --color-brand-primary-glow: var(--color-roygbiv-v);
-  --color-brand-primary-shade: var(--color-roygbiv-r);
-  --color-brand-primary-tint: var(--color-roygbiv-y);
-}
-
-
-/* Sizes */
-:root {
-  --baseline: 1.125rem;
-
-  --width-central: 1280px;
-  --width-gutter: 5vw;
-  --width-spacing: 5vh;
-  --width-card: 20rem;
-
-  --grid-card-min-size: var(--width-card);
-
-  --grid-gap: 2rem;
-  --stack-gap: 1.5em;
-
-  /* // Major Second: https://type-scale.com/ */
-  --modifier-canon: 1.80;
-  --modifier-trafalgar: 1.60;
-  --modifier-paragon: 1.42;
-  --modifier-doublepica: 2;
-  --modifier-primer: 1.26;
-  --modifier-brezier: 1.12;
-  --modifier-pica: 1;
-  --modifier-minion: 0.88;
-  --modifier-demipica: 0.5;
-  --modifier-stroke: 0.12;
-  --modifier-pixel: 0.062;
-
-  --size-canon: calc(var(--baseline) * var(--modifier-canon));
-  --size-trafalgar: calc(var(--baseline) * var(--modifier-trafalgar));
-  --size-paragon: calc(var(--baseline) * var(--modifier-paragon));
-  --size-doublepica: calc(var(--baseline) * var(--modifier-doublepica));
-  --size-primer: calc(var(--baseline) * var(--modifier-primer));
-  --size-brezier: calc(var(--baseline) * var(--modifier-brezier));
-  --size-pica: calc(var(--baseline) * var(--modifier-pica));
-  --size-minion: calc(var(--baseline) * var(--modifier-minion));
-  --size-demipica: calc(var(--baseline) * var(--modifier-demipica));
-  --size-stroke: calc(var(--baseline) * var(--modifier-stroke));
-  --size-pixel: calc(var(--baseline) * var(--modifier-pixel));
-}
-
-
-@media screen and (min-width: 600px) {
-  /* Perfect Fourth: https://type-scale.com/ */
-  :root {
-    --modifier-canon: 4.209;
-    --modifier-trafalgar: 3.157;
-    --modifier-paragon: 2.369;
-    --modifier-primer: 1.777;
-    --modifier-brezier: 1.333;
-    --modifier-minion: 0.75;
-    --modifier-stroke: 0.125;
-    --modifier-pixel: 0.0625;
-  }
-}
-
-/* Fonts */
-:root {
-  --blur: 0.25rem;
-  --radius: 0.5rem;
-
-  --font-weight-ounce: 100;
-  --font-weight-pound: 400;
-  --font-weight-stone: 900;
-
-  --lh-fine: 1em;
-  --lh-slim: 1.33em;
-  --lh-mean: 1.5em;
-  --lh-wide: 1.66em;
-  --lh-vast: 2em;
-
-  --font-face-accent: 'Sentient',
-    Georgia,
-    'Times New Roman',
-    Times,
-    serif;
-
-  --font-face-main: -apple-system,
-    BlinkMacSystemFont,
-    "Segoe UI",
-    Roboto,
-    Helvetica,
-    Arial,
-    sans-serif,
-    "Apple Color Emoji",
-    "Segoe UI Emoji",
-    "Segoe UI Symbol";
-
-  --font-face-code: 'DM Mono',
-    'Operator Mono',
-    'Fantasque Sans Mono',
-    'Dank Mono',
-    'Hack',
-    'Fira Code',
-    'Fira Mono',
-    'IBM Plex Mono',
-    'DejaVu Sans Mono',
-    'Roboto Mono',
-    'Everson Mono',
-    'Source Code Pro',
-    Consolas,
-    Monaco,
-    'Andale Mono',
-    'Ubuntu Mono',
-    monospace;
 }

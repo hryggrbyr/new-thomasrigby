@@ -8,6 +8,8 @@ description: Articles I have written
   {% include 'partials/common/page-header.html' %}
   <div class="grid">
     {% for post in collections.posts | reverse %}
+      {% set date = post.date %}
+      {% set title = post.data.title %}
       {% include 'partials/components/card.html' %}
     {% endfor %}
   </div>

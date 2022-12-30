@@ -1,3 +1,6 @@
+@import 'button.css';
+@import 'hero.css';
+
 .icon {
   display: flex;
   place-items: center;
@@ -33,8 +36,8 @@
 .grid {
   width: 100%;
   display: grid !important;
-  grid-template-columns: repeat(auto-fill, minmax(var(--width-card, 10rem), 1fr));
-  grid-gap: var(--grid-gap, 1rem);
+  grid-template-columns: repeat(auto-fill, minmax(var(--width-card), 1fr));
+  grid-gap: var(--grid-gap);
 }
 
 .stack > *:not(style) + *:not(style) {
@@ -81,8 +84,8 @@
 }
 
 .glass {
-  background-color: var(--color-smoke, rgba(0, 0, 0, 0.5));
-  backdrop-filter: blur(var(--blur, 0.125rem));
+  background-color: var(--color-smoke);
+  backdrop-filter: blur(var(--blur));
 }
 
 /* https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html */

@@ -10,18 +10,16 @@
 ---
 
 {% block head %}
-  <link rel="stylesheet" href="/css/cms-content.css" />
+  <!-- <link rel="stylesheet" href="/css/cms-content.css" /> -->
 {% endblock %}
 
 {% block main %}
   {% include 'partials/components/hero.html' %}
-  <div class="cms-content">
-    <p class="intro">{{ description }}</p>
+    <p>{{ description }}</p>
     <ul>
       {% for link in links %}
         <li>
           <a
-            class="button med text secondary"
             href="{{ link.url }}"
             {% include 'partials/atom/external.html' %}
           >
@@ -30,5 +28,4 @@
         </li>
       {% endfor %}
     </ul>
-  </div>
 {% endblock %}

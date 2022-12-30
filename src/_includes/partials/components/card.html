@@ -1,22 +1,59 @@
+{% set date = post.date %}
+{% set title = post.data.title %}
 <article class="card | border radius shadow">
-  <header>
-    <h3 class="spacing gutters | ft-fc-accent ft-sz-paragon ft-lh-fine">{{ post.data.title | safe }}</h3>
-  </header>
-  <div class="gutters spacing">{{ post.data.description | safe }}</div>
-  <footer class="spacing gutters border">
-    <a class="button med ghost secondary breakout" href="{{ post.url }}">Continue reading…</a>
-    <div>
-      <small>
-        {% set date = post.date %}
-        {% include 'partials/post/post-date.html' %}
-      </small>
+  {% if cover %}
+    <img src="{{ cover }}" alt="" role="presentation" />
+  {% endif %}
+  <header class="spacing gutters stack">
+    <h3 class="ft-fc-accent ft-sz-paragon ft-lh-fine">{{ title | safe }}</h3>
+    {% if subtitle %}
+      <p><strong><em>{{ subtitle }}</em></strong></p>
+    {% endif %}
+    {% if series %}
       <p>
-        {% set size = "minion" %}
-        {% set tags = post.data.tags %}
-        {% for tag in tags %}
-          <small class="button text sml tertiary">{{ tag }}</small>
-        {% endfor %}
+        <strong>
+          {{ series }}
+          {% if seriesNumber %}
+            ({{ seriesNumber }})
+          {% endif %}
+        </strong>
       </p>
-    </div>
+    {% endif %}
+  </header>
+  <div class="gutters spacing">{{ description | safe }}</div>
+  <footer class="spacing gutters border">
+    {% if url %}
+      <a class="button med ghost secondary breakout" href="{{ url }}">More&hellip;</a>
+    {% endif %}
+    <table>
+      <tbody>
+        <tr>
+          <th>Author</th>
+          <td>
+            {% for author in authors %}
+              <cite>{{ author }}</cite>
+            {% endfor %}
+          </td>
+        </tr>
+        <tr>
+          <th>Published</th>
+          <td>
+            {% include 'partials/post/post-date.html' %}
+          </td>
+        </tr>
+        {% if tags.length %}
+        <tr>
+          <th>Categories</th>
+          <td>
+            <ul>
+              {% for tag in tags %}
+                <li><small>{{ tag }}</small></li>
+              {% endfor %}
+            </ul>
+          </td>
+        </tr>
+        {% endif %}
+      </tbody>
+    </table>
   </footer>
 </article>
