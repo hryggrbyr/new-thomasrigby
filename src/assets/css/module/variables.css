@@ -51,7 +51,7 @@
   monospace;
 
   --width-central: 1280px;
-  --width-card: 14rem;
+  --width-card: 18rem;
   --grid-gap: 2rem;
 
 
@@ -84,4 +84,8 @@
   --color-background: var(--color-midnight);
   --color-foreground: whitesmoke;
 
+  --color-link: var(--color-roygbiv-b);
+  --color-link-visited: var(--color-roygbiv-i);
+  --color-link-active: var(--color-roygbiv-r);
+  --color-link-hover: var(--color-roygbiv-v);
 }

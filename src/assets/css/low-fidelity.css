@@ -54,19 +54,27 @@ a:not(.button):visited {
 }
 
 a:not(.button):hover {
-  color: var(--color-link-hove, deeppink);
+  color: var(--color-link-hover, deeppink);
 }
 
 a:not(.button):active {
   color: var(--color-link-active, indianred);
 }
 
+a.home-link,
+a.home-link:visited {
+  color: var(--color-foreground, white);
+  text-decoration: none;
+}
+
 .logo {
   display: flex;
-  flex-wrap: no-wrap;
-  justify-content: first baseline;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
   align-items: center;
   gap: 1ch;
+  font-family: var(--font-face-code, monospace);
+  font-size: var(--size-pica, 1rem);
 }
 
 .logo img {
@@ -128,4 +136,17 @@ a:not(.button):active {
 .card footer table tr td ul {
   margin: 0;
   padding-left: 0;
+}
+
+.button {
+  --color-button: var(--color-link, dodgerblue);
+  color: var(--color-button);
+  border: 1px solid currentColor;
+  border-radius: 1ch;
+  padding: 0.5ch 1ch;
+  font-weight: bold;
+}
+
+.button:hover {
+  --color-button: var(--color-link-hover, deeppink);
 }
