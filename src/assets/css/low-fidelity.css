@@ -1,6 +1,7 @@
 @import 'reset.css';
 @import 'variables.css';
 @import 'utility.css';
+@import 'hero.css';
 
 :root {
   background-color: var(--color-background, whitesmoke);

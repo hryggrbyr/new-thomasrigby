@@ -1,5 +1,6 @@
 {% set date = post.date %}
 {% set title = post.data.title %}
+{% set cover = post.data.hero.src %}
 <article class="card | border radius shadow">
   {% if cover %}
     <img src="{{ cover }}" alt="" role="presentation" />

@@ -2,15 +2,24 @@
 layout: 'layouts/default'
 title: Articles
 description: Articles I have written
+hero:
+  size: full-bleed half-screen
+  image:
+    src: /assets/images/aaron-burden-xG8IQMqMITM-unsplash.jpg
+    alt: fountain pen on spiral-bound notebook
+    credit:
+      name: Aaron Burden
+      url: https://unsplash.com/@aaronburden
 ---
 
 <section>
-  {% include 'partials/common/page-header.html' %}
+  {% include 'partials/components/hero.html' %}
+
   <div class="grid">
     {% for post in collections.posts | reverse %}
       {% set date = post.date %}
       {% set title = post.data.title %}
-      {% include 'partials/components/card.html' %}
+      {% include 'partials/components/original.card.html' %}
     {% endfor %}
   </div>
 </section>
