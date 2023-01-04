@@ -15,6 +15,46 @@ body {
   font-family: var(--font-face-main, sans-serif);
   font-size: 1rem;
   line-height: 1.6em;
+
+  display: flex;
+  flex-direction: column;
+}
+
+body .site-header,
+body .site-footer {
+  position: relative;
+  background-color: var(--color-smoke, black);
+  padding-top: var(--size-pica, 1rem);
+  padding-bottom: var(--size-pica, 1rem);
+}
+
+body .site-footer {
+  margin-top: auto;
+}
+
+body .site-header:after,
+body .site-footer:before {
+  content: "";
+  display: block;
+  background: var(--gradient-rainbow);
+  width: 100%;
+  height: var(--size-stroke, 0.125rem);
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+body .site-header:after {
+  top: auto;
+  bottom: 0;
+}
+body .site-footer:before {
+  top: 0;
+  bottom: auto;
+}
+
+main {
+  padding-bottom: var(--width-spacing);
 }
 
 svg,

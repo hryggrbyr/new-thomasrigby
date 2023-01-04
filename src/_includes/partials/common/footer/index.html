@@ -1,8 +1,31 @@
-<footer class="site-footer">
-  <div class="wrapper gutters">
-    <div class="flex centered-vt space-between">
-      <p>&copy; {{ me.startDate | getYear }} - {% year %} {{ me.name.display }}</p>
+<footer class="site-footer | glass | stack spacing | no-print">
+  <div class="wrapper gutters spacing-narrow">
+    <div class="flex">
       {% include './footer-nav.html' %}
+    </div>
+    <div class="flex">
+      <div class="stack">
+        {% include 'partials/common/footer/disclaimer-carbon.html' %}
+        <p>
+          <small>
+            Except as otherwise noted, the content of this page is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode" target="_blank" rel="nofollow noopener noreferrer">Creative Commons: CC BY-NC-ND 3.0</a>, and code samples are licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0.html" target="_blank" rel="nofollow noopener noreferrer">Apache 2.0 License</a>.
+          </small>
+        </p>
+        {% include 'partials/common/footer/disclaimer-no-ai.html' %}
+        <p><small>Made with ❤️ and ☕ in the rainy part of the United Kingdom.</small></p>
+      </div>
+    </div>
+    <div class="flex">
+      <cite>
+        &copy;
+        {{ me.startDate | getYear }} - {% year %}
+        {{ me.name.display }}.
+        {{ context.colophon.copy | safe }}
+      </cite>
+      <span>{{ context.site.description | safe }}</span>
+    </div>
+    <div data-mozartsghost class="flex" style="align-items: flex-end; justify-content: flex-end;">
+      <a href="#skip">Skip to content</a>
     </div>
   </div>
 </footer>
