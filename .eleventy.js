@@ -48,7 +48,7 @@ const eleventy = config => {
 
   // Shortcodes
   config.addNunjucksShortcode('year', year);
-  config.addNunjucksShortcode('image', imageShortcode);
+  config.addNunjucksAsyncShortcode('image', imageShortcode);
 
   // Register plugins
   const options = {

@@ -1,22 +1,26 @@
 const Image = require('@11ty/eleventy-img');
+const outdent = require('outdent');
 
-const imageShortcode = async _ => `<code>image</code>`
+const stringifyAttributes = (attributeMap) => {
+  return Object.entries(attributeMap)
+    .map(([attribute, value]) => {
+      if (typeof value === 'undefined') return '';
+      return `${attribute}="${value}"`;
+    })
+    .join(' ');
+};
 
-const NEWimageShortcode = async (
-  src,
-  alt,
-  className = undefined,
-  widths = [400, 800, 1280],
-  formats = ['webp', 'jpeg'],
-  sizes = '100vw'
-) => {
-  const imageMetadata = await Image(src, {
+const imageShortcode = async ( src, alt ) => {
+  const widths = [400, 800, 1280, null]
+  const formats = ['webp', 'jpeg']
+  const sizes = '100vw'
+  const className = ''
+  const imageMetadata = await Image(`src${src}`, {
     widths: [...widths, null],
     formats: [...formats, null],
     outputDir: 'dist/assets/images',
-    urlPath: '/src/assets/images',
+    urlPath: '/assets/images',
   });
-
   const sourceHtmlString = Object.values(imageMetadata)
     // Map each format to the source HTML markup
     .map((images) => {
@@ -61,7 +65,8 @@ const NEWimageShortcode = async (
     ${imgHtmlString}
   </picture>`;
 
-  return outdent`${picture}`;
-};
+  const markup = await outdent`${picture}`;
+  return markup
+}
 
 module.exports = imageShortcode
