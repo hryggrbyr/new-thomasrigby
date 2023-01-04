@@ -1,6 +1,6 @@
 .fin {
-  --metric-fin-gap: var(--size-pica);
-  margin: var(--width-spacing) auto !important;
+  --metric-fin-gap: var(--size-pica, 1rem);
+  margin: var(--width-spacing, 5rem) auto !important;
   display: grid !important;
   grid-template-columns: 1fr auto 1fr;
   grid-gap: 2ch;
@@ -13,8 +13,8 @@
 .fin:before,
 .fin:after {
   content: '';
-  height: var(--size-stroke);
-  background: var(--gradient-rainbow);
+  height: var(--size-stroke, 0.125rem);
+  background: var(--gradient-rainbow, tomato);
   transform: translateY(-0.1em);
 }
 
