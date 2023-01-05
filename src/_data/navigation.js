@@ -15,6 +15,11 @@ module.exports = {
       text: 'Posts'
     },
     {
+      label: 'photography',
+      url: '/photography',
+      text: 'Photography'
+    },
+    {
       label: 'books',
       url: '/books',
       text: 'Books'
