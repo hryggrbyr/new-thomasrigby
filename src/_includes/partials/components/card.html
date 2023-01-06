@@ -1,60 +1,7 @@
-{% set date = post.date %}
-{% set title = post.data.title %}
-{% set cover = post.data.hero.src %}
-<article class="card | border radius shadow">
-  {% if cover %}
-    <img src="{{ cover }}" alt="" role="presentation" />
-  {% endif %}
-  <header class="spacing gutters stack">
-    <h3 class="ft-fc-accent ft-sz-paragon ft-lh-fine">{{ title | safe }}</h3>
-    {% if subtitle %}
-      <p><strong><em>{{ subtitle }}</em></strong></p>
-    {% endif %}
-    {% if series %}
-      <p>
-        <strong>
-          {{ series }}
-          {% if seriesNumber %}
-            ({{ seriesNumber }})
-          {% endif %}
-        </strong>
-      </p>
-    {% endif %}
-  </header>
-  <div class="gutters spacing">{{ description | safe }}</div>
-  <footer class="spacing gutters border">
-    {% if url %}
-      <a class="button med ghost secondary breakout" href="{{ url }}">More&hellip;</a>
-    {% endif %}
-    <table>
-      <tbody>
-        <tr>
-          <th>Author</th>
-          <td>
-            {% for author in authors %}
-              <cite>{{ author }}</cite>
-            {% endfor %}
-          </td>
-        </tr>
-        <tr>
-          <th>Published</th>
-          <td>
-            {% include 'partials/post/post-date.html' %}
-          </td>
-        </tr>
-        {% if tags.length %}
-        <tr>
-          <th>Categories</th>
-          <td>
-            <ul>
-              {% for tag in tags %}
-                <li><small>{{ tag }}</small></li>
-              {% endfor %}
-            </ul>
-          </td>
-        </tr>
-        {% endif %}
-      </tbody>
-    </table>
-  </footer>
-</article>
+{% macro card(title, date) -%}
+  <article class="card | border radius shadow">
+    <img src="{{ cover.src }}" alt="{{ cover.alt }}" />
+    <h3>{{ title }}</h3>
+    <p><small>{{ date }}</small></p>
+  </article>
+{% endmacro %}

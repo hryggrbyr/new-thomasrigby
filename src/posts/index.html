@@ -16,10 +16,13 @@ hero:
   {% include 'partials/components/hero.html' %}
 
   <div class="grid">
+    {% from 'partials/components/card.html' import card %}
     {% for post in collections.posts | reverse %}
-      {% set date = post.date %}
-      {% set title = post.data.title %}
-      {% include 'partials/components/original.card.html' %}
+      {{ card(
+        title = post.data.title,
+        date = post.date,
+        cover: post.data.hero.image
+      ) }}
     {% endfor %}
   </div>
 </section>

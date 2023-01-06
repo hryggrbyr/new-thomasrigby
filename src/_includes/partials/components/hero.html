@@ -1,4 +1,6 @@
-{% if hero.title %}
+<pre>{{ hero | stringify }}</pre>
+
+{% if (hero.title) %}
   {% set title = hero.title %}
 {% endif %}
 
@@ -8,4 +10,6 @@
   </div>
 {% endif %}
 
-{% include 'partials/common/page-header.html' %}
+{% if (title) %}
+  {% include 'partials/common/page-header.html' %}
+{% endif %}

@@ -8,6 +8,10 @@
   flex-direction: column;
 }
 
+.hero.default {
+  width: 100%;
+}
+
 .hero.full-screen {
   min-height: 90vh;
 }
