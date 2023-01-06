@@ -98,6 +98,10 @@ const getAllShelves = async () => {
     }
     return y
   })
+  .catch(error => {
+    console.error(error)
+    return []
+  })
 }
 
 module.exports = getAllShelves();
