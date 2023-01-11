@@ -1,0 +1,2472 @@
+{
+  "reading": {
+    "label": "reading",
+    "id": "https://bookwyrm.social/user/hryggrbyr/books/reading",
+    "url": "https://bookwyrm.social/user/hryggrbyr/books/reading?page=1",
+    "title": "Currently Reading",
+    "books": [
+      {
+        "id": "https://bookwyrm.social/book/806196",
+        "seriesNumber": "",
+        "authors": "Sarah Painter",
+        "title": "The Pearl King",
+        "publishedDate": "2020-06-17T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/54631621-243a-4f2e-8eb2-8e3313300e35.jpeg"
+      }
+    ],
+    "count": 1
+  },
+  "to-read": {
+    "label": "to-read",
+    "id": "https://bookwyrm.social/user/hryggrbyr/books/to-read",
+    "url": "https://bookwyrm.social/user/hryggrbyr/books/to-read?page=1",
+    "title": "To Read",
+    "books": [
+      {
+        "id": "https://bookwyrm.social/book/613584",
+        "seriesNumber": "",
+        "authors": "carla bergman, Matt Hern",
+        "title": "Trust Kids!",
+        "subtitle": "Stories on Youth Autonomy and Confronting Adult Supremacy",
+        "publishedDate": "2022-11-01T05:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/trust_kids_bergman.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/742842",
+        "seriesNumber": "1",
+        "authors": "Kip Manley",
+        "title": "“Wake up…”",
+        "series": "City of Roses",
+        "description": "City of Roses is a serialized epic very firmly set in Portland, Oregon, only with more sword fights--an urban fantasy mixing magical realism with gonzo noirish prose, where duels are fought in Pioneer Square and union meetings are beseiged by ghost bicycles. Collects chapters 1 - 11 of the critically...",
+        "publishedDate": "2011-05-24T23:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/e41cd971-035c-488c-8c75-a89f6c75b611.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/742846",
+        "seriesNumber": "2",
+        "authors": "Kip Manley",
+        "title": "The Dazzle of Day",
+        "series": "City of Roses",
+        "description": "City of Roses is a serialized epic very firmly set in Portland, Oregon, only with more sword fights--an urban fantasy mixing magical realism with gonzo noirish prose, where duels are fought in Pioneer Square and river gods retire to comfortably shabby apartments. Collects chapters 12 - 22 of the critically...",
+        "publishedDate": "2014-02-25T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/841bb9ca-a76a-453f-9daf-e2e00d6766e4.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/742844",
+        "seriesNumber": "3",
+        "authors": "Kip Manley",
+        "title": "In the Reign of Good Queen Dick",
+        "series": "City of Roses",
+        "description": "City of Roses is a serialized epic firmly set in Portland, Oregon, only with a few more sword fights: a wicked concoction of urban pastoral and incantatory fantastic, where aspirants are knighted in Forest Park, and the Devil keeps a morgue in an abandoned big-box store. Collects chapters 23 – 33...",
+        "publishedDate": "2020-02-12T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/b6523a3a-bae8-4f4e-a431-3329a84e1323.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/388044",
+        "seriesNumber": "",
+        "authors": "Glenda Larke",
+        "title": "Stormlord Rising (stormlord #2)",
+        "publishedDate": "2010-04-19T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/859ff150-3492-4b77-8aaa-594ca7d8c250.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/653038",
+        "seriesNumber": "",
+        "authors": "Tanith Lee",
+        "title": "Personal Darkness",
+        "publishedDate": "2018-02-09T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/f9d2e561-df84-443d-9301-9ae9ed94aa57.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/647805",
+        "seriesNumber": "3",
+        "authors": "Tanith Lee",
+        "title": "Darkness, I",
+        "series": "Blood Opera Sequence",
+        "publishedDate": null,
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/15365-257642124.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/67637",
+        "seriesNumber": "",
+        "authors": "Tanith Lee",
+        "title": "Death's Master",
+        "publishedDate": "1982-09-06T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/7347124c-ccb9-4919-846b-9f01bb5ad145.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/693511",
+        "seriesNumber": "",
+        "authors": "Fritz Leiber",
+        "title": "The Green Millennium",
+        "description": "Hugo and Nebula award-winning Fritz Lieber is a science-fiction grand master with an unparalleled ability to discern the stranger side of the universe. The Green Millennium is set in a futuristic human society based on our own. The regimented, regulated and bureaucratized lifestyle led by the misanthropic Phil Gish leaves...",
+        "publishedDate": "2018-04-02T23:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/255f49b5-16b0-4dec-a4f7-152fcc75de83.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/529954",
+        "seriesNumber": "",
+        "authors": "Fritz Leiber, Jeff Jones",
+        "title": "The Swords of Lankhmar",
+        "publishedDate": "1968-02-21T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/373a7caa-fa61-4932-94ee-e7668e6f4a3b.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/1465",
+        "seriesNumber": "",
+        "authors": "China Miéville",
+        "title": "The City & the City",
+        "publishedDate": "2009-10-29T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/6424335-M.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/16963",
+        "seriesNumber": "1",
+        "authors": "N. K. Jemisin",
+        "title": "The Fifth Season",
+        "series": "Broken Earth",
+        "description": "A SEASON OF ENDINGS HAS BEGUN. IT STARTS WITH THE GREAT RED RIFT across the heart of the world's sole continent, spewing ash that blots out the sun. IT STARTS WITH DEATH, with a murdered son and a missing daughter. IT STARTS WITH BETRAYAL and long-dormant wounds rising up to...",
+        "publishedDate": "2015-09-11T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/a35b5d45-9411-4f43-b137-ba21aa2ac4b6.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/119163",
+        "seriesNumber": "",
+        "authors": "Max Barry",
+        "title": "Jennifer Government",
+        "subjects": [
+          "Modern fiction",
+          "Fiction"
+        ],
+        "publishedDate": "2004-02-05T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/a44875f9-7301-4648-a005-7a0b556b1f67.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/40106",
+        "seriesNumber": "",
+        "authors": "Iain M. Banks",
+        "title": "The Algebraist",
+        "description": "It is 4034 AD. Humanity has made it to the stars. Seconded to a military-religious order he's barely heard of, Fassin Taak must travel amongst the Dwellers of the gas giant Nasqueron, in search of a secret hidden for half a billion years. Any help they offer will be on...",
+        "subjects": [
+          "Science Fiction"
+        ],
+        "publishedDate": "2005-07-04T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/d92aa5ae-f28b-496c-b1ca-c97808c4a9e5.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/928",
+        "seriesNumber": "1",
+        "authors": "Tamsyn Muir",
+        "title": "Gideon the Ninth",
+        "series": "The Locked Tomb",
+        "description": "Tamsyn Muir’s Gideon the Ninth unveils a solar system of swordplay, cut-throat politics, and lesbian necromancers. Her characters leap off the page, as skillfully animated as arcane revenants. The result is a heart-pounding epic science fantasy. Brought up by unfriendly, ossifying nuns, ancient retainers, and countless skeletons, Gideon is...",
+        "publishedDate": "2019-08-06T22:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/7f70a6f6-4a59-4185-b5f3-1b4cd1931455.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/6398",
+        "seriesNumber": "2",
+        "authors": "Tamsyn Muir",
+        "title": "Harrow the Ninth",
+        "series": "The Locked Tomb",
+        "description": "After rocking the cosmos with her deathly debut, Tamsyn Muir continues the story of the penumbral Ninth House in Harrow the Ninth, a mind-twisting puzzle box of mystery, murder, magic, and mayhem. Nothing is as it seems in the halls of the Emperor, and the fate of the galaxy rests...",
+        "publishedDate": "2020-08-07T22:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/9781250313201.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/644528",
+        "seriesNumber": "",
+        "authors": "Henning Ahrens",
+        "title": "Mitgift",
+        "description": "August 1962, in der niedersächsischen Provinz: Seit Jahren richtet Gerda Derking die Toten des Dorfes her, doch dann steht Wilhelm Leeb vor ihrer Tür. Wilhelm, der Gerda vor so vielen Jahren sitzen ließ, um sich die Tochter von Bauer Kruse mit der hohen Mitgift zu sichern. Der als überzeugter Nazi...",
+        "publishedDate": "2020-12-31T23:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/fd933ddf-f163-419c-ba41-ca7505668576.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/230186",
+        "seriesNumber": "",
+        "authors": "Arnaldur Indriðason",
+        "title": "Jar City",
+        "publishedDate": "2005-10-08T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/c7c8886a-889d-4596-80ed-cd286e2083e5.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664374",
+        "seriesNumber": "",
+        "authors": "Thomas Kinsella",
+        "title": "Táin",
+        "subtitle": "From the Irish Epic Táin Bó Cuailnge",
+        "publishedDate": "2002-12-17T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/f3ef3e72-b011-43a1-8edb-a3a2a8722ec3.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/562816",
+        "seriesNumber": "",
+        "authors": "Elijah Kinch Spector",
+        "title": "Kalyna the Soothsayer",
+        "publishedDate": "2022-09-25T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/4a90b4c0-2ecb-463f-8900-3a78222c3aa0.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/560920",
+        "seriesNumber": "",
+        "authors": "Aden Polydoros",
+        "title": "Bone Weaver",
+        "publishedDate": "2022-09-23T23:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/58939928._UY630_SR1200630_2.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664380",
+        "seriesNumber": "",
+        "authors": "T. Hoyle",
+        "title": "Last Gasp",
+        "publishedDate": "1985-03-01T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/0c690a17-512e-4c85-a28d-c6822280f95e.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664385",
+        "seriesNumber": "",
+        "authors": "Lilja Sigurdardóttir",
+        "title": "Cage",
+        "subjects": [
+          "Fiction, suspense",
+          "Fiction, thrillers, general",
+          "Iceland, fiction",
+          "Lesbians, fiction"
+        ],
+        "publishedDate": "2019-12-17T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/d447711d-baee-483d-b83d-815fccd0c320.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/642753",
+        "seriesNumber": "",
+        "authors": "Lilja Sigurðardóttir",
+        "title": "Snare",
+        "description": "After a messy divorce, attractive young mother Sonia is struggling to provide for herself and keep custody of her son. With her back to the wall, she resorts to smuggling cocaine into Iceland, and finds herself caught up in a ruthless criminal world. As she desperately looks for a way...",
+        "subjects": [
+          "Fiction, thrillers, suspense"
+        ],
+        "publishedDate": "2018-11-12T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/60fb7918-4cb0-47ca-a2da-79ca9b4b6098.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/256577",
+        "seriesNumber": "",
+        "authors": "April Genevieve Tucholke",
+        "title": "The Boneless Mercies",
+        "description": "Frey, Ovie, Juniper, and Runa are the Boneless Mercies girls hired to kill quickly, quietly, and mercifully. But Frey is weary of the death trade and, having been raised on the heroic sagas of her people, dreams of a bigger life.",
+        "subjects": [
+          "Norse Mythology",
+          "Euthanasia",
+          "Mercenary troops",
+          "Monsters",
+          "Fiction"
+        ],
+        "publishedDate": "2018-12-01T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/540681d6-12fb-444e-868c-d06aab35fb61.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664395",
+        "seriesNumber": "",
+        "authors": "Laura Kaye",
+        "title": "English Animals",
+        "publishedDate": "2017-01-12T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/a1b82506-8b81-400e-a00a-94180a1a0622.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/277269",
+        "seriesNumber": "",
+        "authors": "Alan Garner",
+        "title": "The Weirdstone of Brisingamen",
+        "subtitle": "A Tale of Alderley",
+        "description": "A young girl and her brother are catapulted into a battle between good and evil for possession of a magical stone of great power that is contained in her bracelet.",
+        "subjects": [
+          "Fantasy"
+        ],
+        "publishedDate": "1998-03-01T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/60edab96-92ab-456e-9bcf-b6137ff2f2b2.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664399",
+        "seriesNumber": "",
+        "authors": "Jennie Bailey",
+        "title": "Lancashire Folk Tales",
+        "subjects": [
+          "Tales",
+          "Folklore"
+        ],
+        "publishedDate": "2014-12-17T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/664397",
+        "seriesNumber": "",
+        "authors": "Louisa Bearman",
+        "title": "Poems in the Lancashire Dialect",
+        "publishedDate": "1977-10-01T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/185951",
+        "seriesNumber": "",
+        "authors": "M. L. Wang",
+        "title": "The Sword of Kaigen",
+        "subtitle": "A Theonite War Story",
+        "publishedDate": "2019-02-13T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/240a2fb0-4846-49a2-91e4-ce2bab07e5eb.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/199020",
+        "seriesNumber": "",
+        "authors": "Ben Aaronovitch",
+        "title": "False Value",
+        "subtitle": "The Sunday Times Number One Bestseller",
+        "publishedDate": "2020-09-06T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/72e5b782-6314-4960-9d0a-a6f34e3a4f2e.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664405",
+        "seriesNumber": "",
+        "authors": "Andrew Stopford",
+        "title": "Php Programming for Windows",
+        "subjects": [
+          "High level programming languages",
+          "Internet languages",
+          "Computer Programming Languages",
+          "Microcomputer Operating Environments",
+          "Computers",
+          "Languages / Programming",
+          "Computer Books: General",
+          "Operating Systems",
+          "Windows",
+          "Programming",
+          "General",
+          "Programming Languages",
+          "HTML",
+          "Computers / Programming Languages / General",
+          "Internet",
+          "Design",
+          "PHP (Computer program language",
+          "PHP (Computer program language)",
+          "Web sites"
+        ],
+        "publishedDate": "2002-05-15T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/f5839a25-ee21-41d8-898c-de33a5d78ec1.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/145765",
+        "seriesNumber": "",
+        "authors": "Naomi Alderman",
+        "title": "The Power",
+        "publishedDate": "2017-07-10T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/969a72d2-4c73-4054-a6c5-3178b2bf073a.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/5263",
+        "seriesNumber": "",
+        "authors": "Samantha Shannon",
+        "title": "The Priory of the Orange Tree",
+        "publishedDate": "2019-02-26T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/1d6f797a-aa02-438a-bab1-ffe354645c64.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664409",
+        "seriesNumber": "",
+        "authors": "Robin Sloan",
+        "title": "Mr. Penumbra's 24-hour Bookstore: A Novel",
+        "publishedDate": "2012-10-02T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/09264a1a-2a8b-4df7-aafe-2d1b69f9f89a.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/5891",
+        "seriesNumber": "",
+        "authors": "N. K. Jemisin",
+        "title": "The Hundred Thousand Kingdoms",
+        "description": "Yeine Darr is an outcast from the barbarian north. But when her mother dies under mysterious circumstances, she is summoned to the majestic city of Sky. There, to her shock, Yeine is named an heiress to the king. But the throne of the Hundred Thousand Kingdoms is not easily won,...",
+        "publishedDate": "2010-08-07T23:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/05d13ab4-5510-4509-ae17-de31e9f6effc.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/101045",
+        "seriesNumber": "",
+        "authors": "Ursula K. Le Guin",
+        "title": "Malafrena",
+        "publishedDate": "1980-02-24T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/ea5462e1-25a3-47c3-81d4-dd835913a073.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/44318",
+        "seriesNumber": "1",
+        "authors": "Lloyd Alexander",
+        "title": "The Book of Three",
+        "series": "Chronicles of Prydain",
+        "description": "The Book of Three (1964) is a high fantasy novel by American writer Lloyd Alexander, the first of five volumes in The Chronicles of Prydain. The series follows the adventures of Taran the Assistant Pig-Keeper, a youth raised by Dallben the enchanter, as he nears manhood while helping to resist...",
+        "subjects": [
+          "Science Fiction, Fantasy, & Magic",
+          "Fantasy",
+          "Juvenile Fiction",
+          "Children's Books/Ages 9",
+          "12 Fiction",
+          "Children: Grades 4",
+          "6",
+          "Action & Adventure",
+          "General",
+          "Legends, Myths, & Fables",
+          "Juvenile Fiction / Science Fiction, Fantasy, Magic"
+        ],
+        "publishedDate": "2006-07-14T07:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/7d4de723-e603-4467-b25f-4dd9d7638d18.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/192212",
+        "seriesNumber": "1",
+        "authors": "Michael Wolff",
+        "title": "Fire and Fury: Inside the Trump White House",
+        "series": "The Trump Trilogy",
+        "description": "A 2018 book by Michael Wolff, detailing the behavior (and hatred) of U.S. President Donald Trump, the staff of his 2016 presidential campaign, and the White House staff.",
+        "subjects": [
+          "Donald Trump"
+        ],
+        "publishedDate": "2018-09-04T04:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/37d53647-db7d-4e74-8637-467e36ae5afa.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664407",
+        "seriesNumber": "",
+        "authors": "P. J. Tracy",
+        "title": "Cold Kill",
+        "series": "Monkeewrench -- 7",
+        "description": "The peaceful Christmas season in Minneapolis is shattered when two friends, Chuck Spencer and Wally Luntz, scheduled to meet in person for the first time, are murdered on the same night, two hours and several miles apart, dramatically concluding winter vacation for homicide detectives Leo Magozzi and Gino Rolseth. An...",
+        "subjects": [
+          "Fiction"
+        ],
+        "publishedDate": "2016-12-17T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/61aa0ad1-2912-4b51-993a-971da1d1fe2c.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/42611",
+        "seriesNumber": "",
+        "authors": "Philip K. Dick",
+        "title": "The Man in the High Castle",
+        "publishedDate": "1992-01-31T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/dbc78eb9-8565-44b0-adb5-cc62aafe503f.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/47651",
+        "seriesNumber": "",
+        "authors": "John Green",
+        "title": "Paper Towns",
+        "publishedDate": "2009-01-05T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/51f26c20-c378-4c6d-993e-c8dcdbe1785f.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/24066",
+        "seriesNumber": "",
+        "authors": "E.B. White",
+        "title": "Charlotte's Web",
+        "description": "This beloved book by E. B. White, author of Stuart Little and The Trumpet of the Swan, is a classic of children's literature that is \"just about perfect.\" Some Pig. Humble. Radiant. These are the words in Charlotte's Web, high up in Zuckerman's barn. Charlotte's spiderweb tells of her feelings...",
+        "subjects": [
+          "Juvenile Fiction",
+          "Children's Books/Ages 9",
+          "12 Fiction",
+          "Children: Grades 2",
+          "3",
+          "Social Issues",
+          "Friendship",
+          "Animals",
+          "Farm Animals",
+          "Classics",
+          "Juvenile Fiction / Classics",
+          "Children's 9",
+          "12",
+          "Literature",
+          "Classics / Contemporary"
+        ],
+        "publishedDate": "2006-10-31T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/ded7c812-cf50-4e32-b88d-0b65590c7475.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/330411",
+        "seriesNumber": "",
+        "authors": "Mark Z. Danielewski",
+        "title": "The Familiar, Volume 1",
+        "publishedDate": "2015-05-12T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/e282f5d9-958c-4743-9ead-b56016c03dd6.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664420",
+        "seriesNumber": "",
+        "authors": "Chris Simms",
+        "title": "Killing the Beasts",
+        "publishedDate": "2005-07-27T23:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/152190d6-e3da-4f24-8904-7aa3562b051f.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/396830",
+        "seriesNumber": "",
+        "authors": "Mark Billingham",
+        "title": "Sleepyhead (tom Thorne, #1)",
+        "publishedDate": "2003-04-26T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/63b20924-3a4f-48d4-82d0-defe4afc1a29.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/60321",
+        "seriesNumber": "",
+        "authors": "Arthur Conan Doyle",
+        "title": "The Complete Sherlock Holmes",
+        "description": "Contains:  * Adventures of Sherlock Holmes Scandal in Bohemia Red-Headed League Case of Identity Boscombe Valley Mystery Five Orange Pips Man with the Twisted Lip Adventure of the Blue Carbuncle Adventure of the Speckled Band Adventure of the Engineer's Thumb Adventure of the Noble Bachelor Adventure of the Beryl Coronet Adventure...",
+        "publishedDate": "2006-01-06T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/aa248b07-b1d3-4118-8ada-e00639f588eb.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/477792",
+        "seriesNumber": "",
+        "authors": "Donald Trump",
+        "title": "Trump",
+        "subtitle": "The Art of the Deal",
+        "description": "The host and coproducer of the megahit reality show The Apprentice presents a unique collection of golf advice. From Palmer and Player, Mickelson and Vijay to Pat Boone, Stone Phillips, and even Yogi Berra, these players, teachers, businesspeople, and celebrities will help you play better and score lower. Everyone who...",
+        "subjects": [
+          "Trump, Donald,",
+          "1946",
+          "Businessmen",
+          "United States",
+          "Biography.",
+          "Real estate developers"
+        ],
+        "publishedDate": "2005-06-26T23:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/54033da8-aeec-443a-90ff-cd4211688872.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664432",
+        "seriesNumber": "",
+        "authors": "Harold Schechter",
+        "title": "The Serial Killer Files",
+        "publishedDate": "2004-12-17T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/538f0192-4906-4787-886d-f9d3a747aa05.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664430",
+        "seriesNumber": "",
+        "authors": "Richard Lourie",
+        "title": "Hunting the Devil",
+        "publishedDate": "1993-12-17T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/1ceca7bc-036d-4941-af80-16a75335a64f.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/621600",
+        "seriesNumber": "",
+        "authors": "Elliott Leyton",
+        "title": "Hunting Humans",
+        "subtitle": "The Rise of the Modern Multiple Murderer",
+        "subjects": [
+          "Serial murders",
+          "United States",
+          "Psychological aspects",
+          "Case studies"
+        ],
+        "publishedDate": "2003-11-05T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/d7f8d4bb-8094-4500-be86-714bc0c34a39.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664428",
+        "seriesNumber": "",
+        "authors": "Harold Schechter",
+        "title": "Fiend",
+        "subtitle": "The Shocking True Story of America's Youngest Serial Killer",
+        "subjects": [
+          "Pomeroy, Jesse Harding, b. 1859",
+          "Serial murderers",
+          "Massachusetts",
+          "Boston",
+          "Biography",
+          "Juvenile homicide",
+          "Murder",
+          "History"
+        ],
+        "publishedDate": "2000-12-17T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/df221166-2855-40e8-9c6b-4de4dd2341bd.jpeg"
+      }
+    ],
+    "count": 52
+  },
+  "read": {
+    "label": "read",
+    "id": "https://bookwyrm.social/user/hryggrbyr/books/read",
+    "url": "https://bookwyrm.social/user/hryggrbyr/books/read?page=1",
+    "title": "Read",
+    "books": [
+      {
+        "id": "https://bookwyrm.social/book/308455",
+        "seriesNumber": "",
+        "authors": "Sarah Painter",
+        "title": "The Fox's Curse",
+        "publishedDate": "2019-11-26T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/133bfcd2-6934-4faa-ab04-2b31e2bcb020.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/267549",
+        "seriesNumber": "",
+        "authors": "Yrsa Sigurðardóttir",
+        "title": "Last Rituals",
+        "subtitle": "An Icelandic Novel of Secret Symbols, Medieval Witchcraft, and Modern Murder",
+        "description": "The spellbinding debut and international sensation being published in thirty countries featuring Thóra Gudmundsdóttir, a smart, sexy lawyer and investigator whose hunt for a modern murderer points to a very odd—and evil—chapter in Iceland's past. After the body of a young German student—with his eyes cut out...",
+        "subjects": [
+          "Blood accusation",
+          "Murder",
+          "Women lawyers",
+          "Witchcraft",
+          "Reykjavík (Iceland)",
+          "Iceland",
+          "Fiction"
+        ],
+        "publishedDate": "2007-12-07T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/37248e46-0b28-488f-9fd8-38b7bffd6579.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/290801",
+        "seriesNumber": "",
+        "authors": "Patricia A. McKillip",
+        "title": "Ombria in Shadow",
+        "description": "The death of Royce Greve, Ombria's prince, leads to chaos as his aunt, Domina Pearl, attempts to wrest power away from the late prince's son, causing the forces of light and dark to vie for control of the city.",
+        "publishedDate": "2003-01-05T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/1116e0cd-429f-42b8-89f8-492f64ecf30e.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/459350",
+        "seriesNumber": "",
+        "authors": "Jeffry P. Lindsay, Jeff Lindsay",
+        "title": "Dexter in the Dark",
+        "publishedDate": "2008-06-14T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/4ec4d00f-7627-4c29-b1b1-8899389fa62e.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/606088",
+        "seriesNumber": "",
+        "authors": "Jeff Lindsay",
+        "title": "Dearly Devoted Dexter (vintage Crime/black Lizard)",
+        "subjects": [
+          "Mystery & Thrillers",
+          "Mystery",
+          "Thrillers",
+          "Psychological & Suspense"
+        ],
+        "publishedDate": "2010-01-26T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/60a889cb-259d-4dbe-8700-71652777659c.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/606109",
+        "seriesNumber": "",
+        "authors": "Jeff Lindsay",
+        "title": "Darkly Dreaming Dexter (vintage Crime/black Lizard)",
+        "subjects": [
+          "Mystery & Thrillers",
+          "Mystery",
+          "Thrillers",
+          "Suspense"
+        ],
+        "publishedDate": "2009-08-25T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/5979da20-62a3-4552-9673-048b1e160f0c.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/149926",
+        "seriesNumber": "",
+        "authors": "Albert Camus",
+        "title": "The Stranger",
+        "publishedDate": "2016-06-07T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/84669321-2553-4d09-a962-31a171345de9.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/200540",
+        "seriesNumber": "",
+        "authors": "Neil Gaiman",
+        "title": "American Gods",
+        "description": "Days before his release from prison, Shadow's wife, Laura, dies in a mysterious car crash. Numbly, he makes his way back home. On the plane, he encounters the enigmatic Mr Wednesday, who claims to be a refugee from a distant war, a former god and the king of America. Together...",
+        "publishedDate": null,
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/187b708a-356c-4462-9b51-e6ccd739da4c.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/147179",
+        "seriesNumber": "2",
+        "authors": "Susan Cooper",
+        "title": "The Dark Is Rising",
+        "series": "The Dark Is Rising",
+        "description": "On his eleventh birthday Will Stanton discovers that he is the last of the Old Ones, destined to seek the six magical Signs that will enabee the Old Ones to triumph over the evil forces of the Dark.",
+        "subjects": [
+          "Action & Adventure",
+          "General",
+          "Classics",
+          "Science Fiction, Fantasy, & Magic",
+          "Juvenile Fiction / Science Fiction, Fantasy, Magic",
+          "Legends, Myths, & Fables",
+          "Arthurian",
+          "Juvenile Fiction",
+          "Children's Books/Ages 9",
+          "12 Fiction",
+          "England",
+          "Fantasy",
+          "Fiction",
+          "Children: Young Adult (Gr. 7",
+          "9)"
+        ],
+        "publishedDate": "2007-05-08T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/43ddc319-8d60-4634-8637-cc3ab28ba60f.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/674185",
+        "seriesNumber": "1",
+        "authors": "Chanda Hahn",
+        "title": "Underland",
+        "series": "The Underland Chronicles",
+        "description": "Long ago, before humans forgot them for all eternity, monsters and immortals retreated below ground to seek shelter. But what do the Greek Gods do when they're bored? They bring back the Olympic games--only a lethal version. The newest contender in these bigger, deadlier games is a young human girl...",
+        "publishedDate": "2016-04-04T23:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/underland.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/54414",
+        "seriesNumber": "",
+        "authors": "Diana Wynne Jones",
+        "title": "Charmed Life (essential Modern Classics)",
+        "publishedDate": "2008-04-02T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/270c9a70-2dd3-46a8-95e8-9512f2577950.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/308453",
+        "seriesNumber": "",
+        "authors": "Sarah Painter",
+        "title": "The Silver Mark",
+        "publishedDate": "2019-05-12T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/71ae5ecc-b5d9-4482-a4be-c713d3368732.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/163546",
+        "seriesNumber": "1",
+        "authors": "Melissa Caruso",
+        "title": "The Tethered Mage",
+        "subtitle": "Control the Magic, Control the World",
+        "series": "The Swords and Fire Trilogy",
+        "description": "\"In the Raverran Empire, magic is scarce and those born with power are strictly controlled -- taken as children and conscripted into the Falcon Army. Zaira has lived her life on the streets to avoid this fate, hiding her mage-mark and thieving to survive. But hers is a rare and...",
+        "subjects": [
+          "Magic",
+          "Fiction"
+        ],
+        "publishedDate": "2017-08-05T23:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/c918d9d8-4473-44a1-9671-c2959e41bbf6.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664376",
+        "seriesNumber": "",
+        "authors": "Quentin Bates",
+        "title": "Frozen out",
+        "publishedDate": "2013-12-17T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/s-l500_ORdw6X6.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664378",
+        "seriesNumber": "",
+        "authors": "Lilja Sigurdardottir, Quentin Bates",
+        "title": "Cold as Hell",
+        "publishedDate": "2021-12-17T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/cold-as-hell-lilja-sigurdardottir-9781913193881.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664381",
+        "seriesNumber": "",
+        "authors": "Amanda Bouchet",
+        "title": "Promise of Fire",
+        "subjects": [
+          "American literature"
+        ],
+        "publishedDate": "2022-12-17T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/176409",
+        "seriesNumber": "",
+        "authors": "Victoria Aveyard",
+        "title": "Realm Breaker",
+        "publishedDate": "2021-05-04T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/2658bed0-0929-432a-867f-450485da1f60.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/442741",
+        "seriesNumber": "",
+        "authors": "Yrsa Sigurðardóttir",
+        "title": "My Soul to Take",
+        "subtitle": "A Novel of Iceland",
+        "description": "A grisly murder is committed at a health resort situated in a recently renovated farmhouse, which turns out to be notorious for being haunted. Attorney Thora Gudmundsdottir is called upon by the owner of the resort - the prime suspect in the case - to represent him. Her investigations uncover...",
+        "subjects": [
+          "Women lawyers",
+          "Fiction",
+          "Reykjavík (Iceland)"
+        ],
+        "publishedDate": "2009-05-30T23:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/6c5e01d4-019e-4c3f-a913-dbbd87a8200a.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/500230",
+        "seriesNumber": "",
+        "authors": "Victoria Aveyard",
+        "title": "Blade Breaker",
+        "publishedDate": "2022-07-23T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/0e52355d-3465-4761-8c7a-cbbc9ee09731.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664383",
+        "seriesNumber": "",
+        "authors": "Lilja Sigurdardottir",
+        "title": "Betrayal",
+        "publishedDate": "2021-03-01T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/9781913193409.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664389",
+        "seriesNumber": "",
+        "authors": "Anne Holt",
+        "title": "Grave for Two",
+        "subjects": [
+          "Norway, fiction",
+          "Fiction, mystery & detective, general",
+          "Fiction, thrillers, general"
+        ],
+        "publishedDate": "2019-12-17T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/664393",
+        "seriesNumber": "",
+        "authors": "Megan Campisi",
+        "title": "Sin Eater",
+        "publishedDate": null,
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/3af5c17b-0908-4b89-aa31-e07cdaffdaf7.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664391",
+        "seriesNumber": "",
+        "authors": "Yrsa Sigurðardóttir",
+        "title": "The Legacy",
+        "description": "The murder was meant as a punishment - but what sin could justify the method? The only person who might have answers is the victim's seven-year-old daughter, who was found hiding in the room where her mother died. And she's not talking. Newly promoted, out of his depth, Detective Huldar...",
+        "subjects": [
+          "Murder",
+          "Police",
+          "Mothers",
+          "Fiction",
+          "Death",
+          "Investigation",
+          "Child witnesses",
+          "Serial murder investigation",
+          "Child welfare",
+          "Women psychologists"
+        ],
+        "publishedDate": "2018-12-17T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/316430",
+        "seriesNumber": "",
+        "authors": "Henning Mankell",
+        "title": "One Step Behind (kurt Wallender Mystery)",
+        "subjects": [
+          "Crime & mystery",
+          "Mystery/Suspense"
+        ],
+        "publishedDate": "2003-04-03T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/7b711c8d-7db1-487b-a228-7fab8cf86582.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664401",
+        "seriesNumber": "",
+        "authors": "John Niven",
+        "title": "No Good Deed",
+        "publishedDate": "2017-06-29T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/2f69020c-37f4-4cda-b25f-c20db92d1c2a.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/316472",
+        "seriesNumber": "",
+        "authors": "Henning Mankell",
+        "title": "The Fifth Woman",
+        "subjects": [
+          "Mystery & Detective",
+          "General",
+          "Fiction",
+          "Mystery/ Detective",
+          "Mystery/Suspense",
+          "Fiction / Mystery & Detective / General"
+        ],
+        "publishedDate": "2004-04-22T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/79b8c70c-8ff3-4dd4-b2ca-64af73ac84ce.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/168959",
+        "seriesNumber": "7",
+        "authors": "Ben Aaronovitch",
+        "title": "Lies Sleeping",
+        "series": "Rivers of London",
+        "subjects": [
+          "Fiction, mystery & detective, general",
+          "London (england), fiction"
+        ],
+        "publishedDate": "2018-08-06T22:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/daf5857f-3c77-4b01-bace-dab4e7521c2f.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/228720",
+        "seriesNumber": "3",
+        "authors": "Ben Aaronovitch",
+        "title": "Whispers Under Ground",
+        "series": "Rivers of London",
+        "description": "Peter Grant is learning magic fast. And it's just as well - he's already had run-ins with the deadly supernatural children of the Thames and a terrifying killer in Soho. Progression in the Police Force is less easy. Especially when you work in a department of two. A department that...",
+        "publishedDate": "2012-10-06T22:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/bd9f80c9-0167-44e3-af28-4e224aca16e1.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/219627",
+        "seriesNumber": "4",
+        "authors": "Ben Aaronovitch",
+        "title": "Broken Homes",
+        "series": "Rivers of London",
+        "description": "A mutilated body in Crawley. A killer on the loose. The prime suspect is one Robert Weil, possibly an associate of the twisted wizard known as the Faceless Man. Or maybe just a garden-variety serial killer. Before apprentice wizard and Police Constable Peter Grant can even get his head 'round...",
+        "publishedDate": "2012-12-31T05:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/a74bf33f-abd1-448d-a0a5-85291e9ddc11.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/44664",
+        "seriesNumber": "5",
+        "authors": "Ben Aaronovitch",
+        "title": "Foxglove Summer",
+        "series": "Rivers of London",
+        "description": "When two young girls go missing in rural Herefordshire, police constable and wizard-in-training Peter Grant is sent out of London to check that nothing supernatural is involved. It’s purely routine—Nightingale, Peter’s superior, thinks he’ll be done in less than a day. But Peter’s never been...",
+        "publishedDate": "2014-11-12T23:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/19d69315-6eae-4dbd-94d3-e706b2b5334c.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/168993",
+        "seriesNumber": "6",
+        "authors": "Ben Aaronovitch",
+        "title": "The Hanging Tree",
+        "series": "Rivers of London",
+        "description": "Suspicious deaths are not usually the concern of PC Peter Grant or the Folly, even when they happen at an exclusive party in one of the most expensive apartment blocks in London. But Lady Ty's daughter was there, and Peter owes Lady Ty a favour. Plunged into the alien world...",
+        "publishedDate": "2016-11-03T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/bf4b2874-54ad-4f11-9899-16f7e20fc9d5.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/308451",
+        "seriesNumber": "",
+        "authors": "Sarah Painter",
+        "title": "The Night Raven",
+        "publishedDate": "2018-10-13T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/49dfcb72-97be-4745-b1dc-ee8a9dc0ea8f.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/119704",
+        "seriesNumber": "",
+        "authors": "Raymond E. Feist",
+        "title": "A Darkness at Sethanon",
+        "series": "Riftwar, Part 4",
+        "subjects": [
+          "Fantasy"
+        ],
+        "publishedDate": "1987-10-08T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/22e4a814-604d-4056-8c81-980331a13670.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/119699",
+        "seriesNumber": "2",
+        "authors": "Raymond E. Feist",
+        "title": "Silverthorn",
+        "series": "Riftwar Saga",
+        "description": "The second volume in Raymond E. Feist's highly acclaimed epic fantasy Riftwar Saga With the Kingdom of the Isles at peace, Prince Arutha can at last look forward to marrying the Princess Anita in the city of Krondor. But the capital in the west harbours many shadows. When Jimmy the...",
+        "subjects": [
+          "Fantasy"
+        ],
+        "publishedDate": "1986-11-20T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/2f8970d9-a76f-45bc-a2e2-ab56f3b14920.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/153250",
+        "seriesNumber": "1",
+        "authors": "Ben Aaronovitch",
+        "title": "Rivers of London",
+        "series": "Rivers of London",
+        "description": "Rivers of London (Midnight Riot in the US) is the first novel in the Peter Grant series by English author Ben Aaronovitch. The novel was released on 10 January 2011 through Gollancz and was well received by critics, earning a Galaxy National Book Awards nomination for Aaronovitch in the New...",
+        "publishedDate": "2011-05-25T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/45bc60ed-4ec0-48cd-af87-7a414df9967d.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/193839",
+        "seriesNumber": "",
+        "authors": "Ben Aaronovitch",
+        "title": "Moon Over Soho",
+        "publishedDate": "2011-04-01T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/c47dddeb-c790-4691-ab7e-759d443636b5.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/204674",
+        "seriesNumber": "",
+        "authors": "Raymond E. Feist, Michael Avon Oeming, Bryan J. L. Glass, Brett Booth, Ryan Stegman",
+        "title": "Magician Apprentice Volume 1 Premiere Hc (magician Apprentice)",
+        "subjects": [
+          "Graphic Novels",
+          "Science Fiction And Fantasy",
+          "Comics & Graphic Novels",
+          "Fantasy",
+          "General",
+          "Comics & Graphic Novels / General"
+        ],
+        "publishedDate": "2007-05-30T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/664403",
+        "seriesNumber": "",
+        "authors": "Jørn Lier Horst",
+        "title": "Dregs",
+        "description": "\"Meet Chief Inspector William Wisting, an experienced policeman who is familiar with the dark side of human nature. He lives in challenging times for the Norwegian police force, meeting them with integrity and humanity, and a fragile belief that he can play a part in creating a better world\"--Publisher's...",
+        "subjects": [
+          "Police",
+          "Fiction"
+        ],
+        "publishedDate": "2011-11-09T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/1e68fb30-2b6b-402a-8ae2-6704203fa496.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/23534",
+        "seriesNumber": "",
+        "authors": "Raymond E. Feist",
+        "title": "Magician",
+        "subtitle": "Apprentice (riftwar Saga)",
+        "subjects": [
+          "Fantasy",
+          "General",
+          "Fiction",
+          "Fiction / Fantasy / General"
+        ],
+        "publishedDate": "1993-12-01T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/6678613-M.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/327353",
+        "seriesNumber": "",
+        "authors": "Henning Mankell",
+        "title": "Firewall",
+        "subjects": [
+          "Crime & mystery",
+          "Modern fiction",
+          "Fiction"
+        ],
+        "publishedDate": "2004-09-02T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/4556df6c-1410-4f3f-88fd-88b067207a49.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/308525",
+        "seriesNumber": "",
+        "authors": "Nesser Hakan",
+        "title": "Mind's Eye [minds Eye]",
+        "publishedDate": "2008-07-04T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/9317e6ea-e42d-4dc6-a985-ea0854956ec3.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664411",
+        "seriesNumber": "",
+        "authors": "RaShelle Workman",
+        "title": "Alice in Demonland",
+        "publishedDate": "2017-09-04T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/842ea68f-f18f-437a-b1de-d63b09d2e5c3.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/215202",
+        "seriesNumber": "",
+        "authors": "Philip Pullman",
+        "title": "Northern Lights (his Dark Materials)",
+        "series": "His Dark Materials (1)",
+        "publishedDate": "1998-10-23T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/e59dda4e-b7d5-4427-89e4-8b88910705ab.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/25677",
+        "seriesNumber": "",
+        "authors": "Philip Pullman",
+        "title": "The Subtle Knife",
+        "series": "His Dark Materials",
+        "description": "As the boundaries between worlds begin to dissolve, Lyra and her daemon help Will Parry in his search for his father and for a powerful, magical knife.",
+        "subjects": [
+          "Fantasy"
+        ],
+        "publishedDate": "1997-09-11T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/83b5b8d1-3798-4c57-9674-eb37bc167f0d.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/23838",
+        "seriesNumber": "",
+        "authors": "Philip Pullman",
+        "title": "The Amber Spyglass (his Dark Materials, Book 3)",
+        "series": "His Dark Materials (3)",
+        "publishedDate": "2003-09-09T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/281600-M.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/6515",
+        "seriesNumber": "1",
+        "authors": "Ursula K. Le Guin",
+        "title": "A Wizard of Earthsea",
+        "series": "Earthsea Cycle",
+        "description": "Ged, the greatest sorcerer in all Earthsea, was called Sparrowhawk in his reckless youth. Hungry for power and knowledge, Sparrowhawk tampered with long-held secrets and loosed a terrible shadow upon the world. This is the tale of his testing, how he mastered the mighty words of power, tamed an ancient...",
+        "subjects": [
+          "Wizards",
+          "Fiction",
+          "Children's 9",
+          "12",
+          "Fantasy",
+          "General",
+          "Fiction / Fantasy / General",
+          "Magic"
+        ],
+        "publishedDate": "2004-09-28T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/645c366e-bdfc-43a2-b60d-4692c6c75c00.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/150628",
+        "seriesNumber": "1",
+        "authors": "Andrzej Sapkowski",
+        "title": "Last Wish",
+        "series": "The Witcher",
+        "description": "Geralt de Rivia is a witcher. A cunning sorcerer. A merciless assassin. And a cold-blooded killer.His sole purpose: to destroy the monsters that plague the world. But not everything monstrous-looking is evil and not everything fair is good. . . and in every fairy tale there is a grain of truth....",
+        "subjects": [
+          "Fantasy",
+          "General",
+          "Fiction / Fantasy / General",
+          "Fiction"
+        ],
+        "publishedDate": "2008-07-16T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/fb3fedf8-d843-4cab-a568-cd2ab05f1745.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/21623",
+        "seriesNumber": "2",
+        "authors": "Ursula K. Le Guin",
+        "title": "The Tombs of Atuan",
+        "series": "Earthsea",
+        "description": "The Tombs of Atuan is a fantasy novel by the American author Ursula K. Le Guin, first published in the Winter 1970 issue of Worlds of Fantasy, and published as a book by Atheneum Books in 1971. It is the second book in the Earthsea series after A Wizard of...",
+        "subjects": [
+          "Science Fiction, Fantasy, & Magic",
+          "Juvenile Fiction",
+          "Fairy Tales & Folklore",
+          "General",
+          "Children's 12",
+          "Up",
+          "Fiction",
+          "Fantasy",
+          "Children: Young Adult (Gr. 7",
+          "9)",
+          "Magic",
+          "Classics",
+          "Juvenile Fiction / Classics",
+          "Fantasy fiction"
+        ],
+        "publishedDate": "2001-11-29T05:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/6596a9ee-2d35-4bb5-9b1a-4dbf571756b3.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/23513",
+        "seriesNumber": "3",
+        "authors": "Ursula K. Le Guin",
+        "title": "The Farthest Shore",
+        "series": "The Earthsea Cycle",
+        "description": "Book Three of Ursula K. Le Guin's Earthsea CycleDarkness threatens to overtake Earthsea: the world and its wizards are losing their magic. Despite being wearied with age, Ged Sparrowhawk -- Archmage, wizard, and dragonlord -- embarks on a daring, treacherous journey, accompanied by Enlad's young Prince Arren, to discover the...",
+        "publishedDate": "2004-11-01T05:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/48d0b47f-8a96-4b9e-9da1-9900161e3466.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/21621",
+        "seriesNumber": "4",
+        "authors": "Ursula K. Le Guin",
+        "title": "Tehanu",
+        "series": "The Earthsea Cycle",
+        "description": "Years ago, they had escaped together from the sinister Tombs of Atuan—she, an isolated young priestess; he, a powerful wizard. Now she is a farmer's widow, having chosen for herself the simple pleasures of an ordinary life. And he is a broken old man, mourning the powers lost to...",
+        "subjects": [
+          "Fiction",
+          "Fantasy",
+          "Epic",
+          "Fiction / Fantasy / General",
+          "Magic"
+        ],
+        "publishedDate": "2004-11-29T05:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/e98d2271-7109-4954-98b4-65cc5deb971d.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/23490",
+        "seriesNumber": "5",
+        "authors": "Ursula K. Le Guin",
+        "title": "Tales from Earthsea",
+        "series": "Earthsea Cycle",
+        "publishedDate": "2003-10-28T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/284131-M_QpEzWAz.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/23489",
+        "seriesNumber": "6",
+        "authors": "Ursula K. Le Guin",
+        "title": "The Other Wind",
+        "series": "The Earthsea Cycle",
+        "description": "The Other Wind is a fantasy novel by the American author Ursula K. Le Guin, published by Harcourt in 2001. It is the fifth and final novel set in the fictional archipelago Earthsea. It won the annual World Fantasy Award for Best Novel and was runner up for the Locus...",
+        "publishedDate": "2003-11-29T05:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/fc95d6f0-e4e5-4aba-9e57-5e31e4fff121.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/38811",
+        "seriesNumber": "2",
+        "authors": "Ursula K. Le Guin",
+        "title": "Ursula K. Le Guin: Hainish Novels and Stories Vol. 2 (loa #297): The Word for World Is Forest / Five Ways to Forgiveness / the Telling / Stories (library of America Ursula K. Le Guin Edition)",
+        "series": "Hainish Novels & Stories",
+        "description": "The star-spanning story of humanity's colonization of other planets, Ursula K. Le Guin's visionary Hainish novels and stories redrew the map of modern science fiction. This second volume in a definitive two-volume edition gathers Le Guin's final two Hainish novels, The Word for World Is Forest , in which Earth enslaves...",
+        "publishedDate": "2017-09-05T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/855d2044-3675-4f45-b18d-d8e3087c24fd.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664413",
+        "seriesNumber": "",
+        "authors": "JT LeRoy",
+        "title": "Sarah",
+        "subtitle": "A Novel",
+        "subjects": [
+          "Prostitutes",
+          "Fiction.",
+          "Male prostitutes",
+          "Androgyny (Psychology)"
+        ],
+        "publishedDate": "2001-11-12T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/3274b59e-5222-4434-a5c3-20b887e6e663.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/63276",
+        "seriesNumber": "",
+        "authors": "Diana Wynne Jones",
+        "title": "Castle in the Air",
+        "series": "\u001a\u001a\u001a\u001a\u001a\u001a\u001a/Howl's Moving Castle",
+        "subjects": [
+          "Humorous Stories",
+          "Juvenile Fiction",
+          "Children's 12",
+          "Up",
+          "Fiction",
+          "Fantasy",
+          "Children: Young Adult (Gr. 7",
+          "9)",
+          "Science Fiction, Fantasy, & Magic",
+          "Juvenile Fiction / Science Fiction, Fantasy, Magic",
+          "Fantasy fiction"
+        ],
+        "publishedDate": "2001-08-07T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/0a97270b-f04e-4841-8d2d-c7f4bdb33cab.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/6549",
+        "seriesNumber": "",
+        "authors": "Ursula K. Le Guin",
+        "title": "Changing Planes",
+        "publishedDate": "2005-07-26T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/284210-M_4AcNSFz.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/23126",
+        "seriesNumber": "1",
+        "authors": "Diana Wynne Jones",
+        "title": "Howl's Moving Castle",
+        "series": "The World of Howl",
+        "description": "As the oldest daughter, willful, outspoken Sophie knew that her life could lead to nothing but mistakes. When her father dies, her stepmother sends her two sisters out to make their fortunes while Sophie continues to work in the family hattery. As she whispers her thoughts to the hats she...",
+        "subjects": [
+          "Humorous Stories",
+          "Juvenile Fiction",
+          "Children's 12",
+          "Up",
+          "Fiction",
+          "Fantasy",
+          "Children: Young Adult (Gr. 7",
+          "9)",
+          "Science Fiction, Fantasy, & Magic",
+          "Juvenile Fiction / Science Fiction, Fantasy, Magic",
+          "Fantasy fiction"
+        ],
+        "publishedDate": "2001-08-07T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/50594-M.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/63256",
+        "seriesNumber": "",
+        "authors": "Diana Wynne Jones",
+        "title": "House of Many Ways",
+        "subjects": [
+          "Action & Adventure",
+          "General",
+          "Humorous Stories",
+          "Science Fiction, Fantasy, & Magic",
+          "Juvenile Fiction / Science Fiction, Fantasy, Magic",
+          "Juvenile Fiction",
+          "Children's Books/All Ages",
+          "Children: Grades 4",
+          "6"
+        ],
+        "publishedDate": "2008-06-10T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/7e52e14d-b26f-4122-9f77-7386ec04ead8.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/395599",
+        "seriesNumber": "",
+        "authors": "Lee Child",
+        "title": "No Middle Name",
+        "subtitle": "The Complete Collected Jack Reacher Short Stories",
+        "series": "Jack Reacher",
+        "description": "\"A collection of pulse-pounding Jack Reacher stories--one never-before-seen novella, plus eleven others collected for the first time in print--each with original introductions from the twelve-time #1 New York Times bestselling author\"--",
+        "subjects": [
+          "Fiction"
+        ],
+        "publishedDate": "2017-04-26T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/664416",
+        "seriesNumber": "",
+        "authors": "Amy Engel",
+        "title": "The Roanoke Girls",
+        "subtitle": "A Novel",
+        "description": "Returning to her family's Kansas estate in the hopes of discovering the fate of her missing cousin, Lane reconnects with a young man from her past and is confronted by dark family secrets that prompted her to flee years earlier.",
+        "subjects": [
+          "Missing persons",
+          "Fiction",
+          "Family secrets"
+        ],
+        "publishedDate": "2017-12-17T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/450317",
+        "seriesNumber": "",
+        "authors": "J. T. Leroy",
+        "title": "The Heart Is Deceitful Above All Things",
+        "publishedDate": "2002-06-01T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/1919cece-7471-44b1-8984-9290e253757e.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/339419",
+        "seriesNumber": "",
+        "authors": "Lee Child",
+        "title": "Never Go Back (jack Reacher, #18)",
+        "publishedDate": null,
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/811a85b2-fe27-4d09-abae-24dfac46349d.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/550970",
+        "seriesNumber": "",
+        "authors": "John Green",
+        "title": "Looking for Alaska",
+        "publishedDate": "2008-04-18T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/7fce98d4-942c-490b-a91f-0389bc7d2a25.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/169007",
+        "seriesNumber": "1",
+        "authors": "Dean Koontz",
+        "title": "Odd Thomas",
+        "series": "Odd Thomas",
+        "description": "Over the course of two days, Odd Thomas, his soulmate Stormy Llewellyn, and an assortment of allies make their way through a dark, terrifying world in which past and present, and life and death collide as they try to avert a cataclysm.",
+        "subjects": [
+          "Cooks",
+          "Fiction",
+          "Mediums",
+          "Murderers"
+        ],
+        "publishedDate": "2006-11-09T08:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/354b3264-dde3-4518-986a-9f7352eb9cc9.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/16601",
+        "seriesNumber": "",
+        "authors": "John Green",
+        "title": "Will Grayson, Will Grayson",
+        "subjects": [
+          "Interpersonal relations",
+          "Fiction",
+          "Dating (Social customs)",
+          "Homosexuality",
+          "Overweight persons",
+          "Theater",
+          "Names, Personal",
+          "Chicago (Ill.)"
+        ],
+        "publishedDate": "2009-11-08T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/6306334-M_gHJx4me.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/5076",
+        "seriesNumber": "",
+        "authors": "Ray Bradbury",
+        "title": "Fahrenheit 451",
+        "description": "The terrifyingly prophetic novel of a post-literate future. Guy Montag is a fireman. His job is to burn books, which are forbidden, being the source of all discord and unhappiness. Even so, Montag is unhappy; there is discord in his marriage. Are books hidden in his house? The Mechanical Hound...",
+        "publishedDate": "2013-08-06T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/bff74867-0f2f-4150-861d-52841829899a.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/258244",
+        "seriesNumber": "",
+        "authors": "Victoria Aveyard",
+        "title": "Glass Sword (red Queen #2)",
+        "publishedDate": "2016-12-03T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/acc04acb-d791-4610-829d-b98fbd0fd43d.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/189313",
+        "seriesNumber": "",
+        "authors": "John Green",
+        "title": "An Abundance of Katherines",
+        "subjects": [
+          "Self",
+          "perception",
+          "Juvenile Fiction",
+          "Fiction",
+          "Children's Books",
+          "Young Adult Fiction",
+          "Children: Young Adult (Gr. 10",
+          "12)",
+          "Social Issues",
+          "Dating & Sex",
+          "Mathematics",
+          "Humorous Stories",
+          "Juvenile Fiction / Humorous Stories",
+          "Interpersonal relations",
+          "Children's 12",
+          "Up",
+          "General"
+        ],
+        "publishedDate": "2006-04-09T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/20d18772-51f4-4d73-b6a5-15bb094e9221.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/36924",
+        "seriesNumber": "",
+        "authors": "Neil Gaiman",
+        "title": "Trigger Warning: Short Fictions and Disturbances",
+        "publishedDate": "2015-02-03T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/8432069-M_qzOL9vN.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/294906",
+        "seriesNumber": "",
+        "authors": "Victoria Aveyard",
+        "title": "Red Queen",
+        "subjects": [
+          "Children's fiction",
+          "Fantasy fiction",
+          "Princesses, fiction"
+        ],
+        "publishedDate": "2015-01-06T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/664422",
+        "seriesNumber": "",
+        "authors": "Tom Philbin",
+        "title": "The Killer Book of Cold Cases",
+        "publishedDate": "2012-02-01T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/550ff67c-d325-4f62-8703-ac1034881078.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/196822",
+        "seriesNumber": "",
+        "authors": "Chris Sims, Hillary Louise Johnson",
+        "title": "Scrum",
+        "subtitle": "A Breathtakingly Brief and Agile Introduction",
+        "publishedDate": "2012-04-03T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/305591",
+        "seriesNumber": "",
+        "authors": "Oscar Wilde",
+        "title": "Picture of Dorian Gray by Oscar Wilde (illustrated Classics)",
+        "publishedDate": "2021-01-21T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/644747",
+        "seriesNumber": "",
+        "authors": "Isaac Marion",
+        "title": "Warm Bodies and the New Hunger: A Special 5th Anniversary Edition",
+        "publishedDate": "2016-08-02T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/a9997beb-5e7b-476a-8a23-7c1cfa9018c9.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/590702",
+        "seriesNumber": "",
+        "authors": "L. Frank Baum",
+        "title": "Little Wizard Stories of Oz",
+        "series": "Books of Wonder",
+        "description": "Six tales present further the adventures of Dorothy and Toto, Ozma, Tiktok, Jack Pumpkinhead, the Tin Woodman, and other characters from the land of Oz.",
+        "subjects": [
+          "Children's stories, American",
+          "Fantasy",
+          "Short stories"
+        ],
+        "publishedDate": "1994-10-08T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/b538ff77-282a-4ee8-a9a1-d400864854f4.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/416325",
+        "seriesNumber": "",
+        "authors": "Douglas Adams",
+        "title": "The Restaurant at the End of the Universe",
+        "series": "The Hitchhiker's Guide to the Galaxy, #2",
+        "description": "In the beginning the universe was created...this made a lot of people angry and has been widely regarded as a bad move. You decide. Come along on a zany journey to the low-rent neighborhood of the Cosmos with earthling Arthur Dent, sexy space cadet Trillian, that imperturbable alien Ford...",
+        "subjects": [
+          "Science Fiction",
+          "General",
+          "Fiction / Science Fiction / General",
+          "Fiction"
+        ],
+        "publishedDate": "1988-05-01T07:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/0cdf38a0-9b20-48fb-ba7f-1b253b67951f.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/23277",
+        "seriesNumber": "",
+        "authors": "Douglas Adams",
+        "title": "Life, the Universe, and Everything",
+        "description": "Life, the Universe and Everything (1982, ISBN 0-345-39182-9) is the third book in the five-volume Hitchhiker's Guide to the Galaxy science fiction \"trilogy\" by British writer Douglas Adams. The title refers to the Answer to Life, the Universe, and Everything. The story was originally outlined by Adams as Doctor Who...",
+        "subjects": [
+          "Prefect, Ford (Fictitious character)",
+          "Fiction.",
+          "Dent, Arthur (Fictitious character)",
+          "Interplanetary voyages"
+        ],
+        "publishedDate": "2005-01-26T22:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/bec12a8f-ceea-46c6-9900-5c0fae927c0d.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/612420",
+        "seriesNumber": "",
+        "authors": "Douglas Adams",
+        "title": "Mostly Harmless",
+        "publishedDate": "1992-10-17T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/cover_IbqozH8.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/25386",
+        "seriesNumber": "",
+        "authors": "Neil Gaiman, David K. Dickson, M. J. Simpson, Guy Adams",
+        "title": "Don't Panic",
+        "subtitle": "Douglas Adams and the Hitchhiker's Guide to the Galaxy",
+        "description": "'It's all absolutely devastatingly true -- except the bits that are lies' Douglas Adams Don't Panic celebrates the life of an ape-descended human called Douglas Adams who, in a field in Innsbruck in 1971, had an idea. This is also the story of what that idea became: The Hitchhiker's Guide...",
+        "subjects": [
+          "Authors, english",
+          "Authors, biography"
+        ],
+        "publishedDate": "2018-11-11T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/Dont_Panic-Douglas_Adams__the_Hitchhikers_Guide_to_the_Galaxy.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/6683",
+        "seriesNumber": "1",
+        "authors": "Douglas Adams",
+        "title": "Dirk Gently's Holistic Detective Agency",
+        "series": "Dirk Gently",
+        "description": "There is a long tradition of Great Detectives and Dirk Gently does not belong to it. But his search for a missing cat uncovers a ghost, a time-traveller, AND the devastating secret of humankind! (back cover)",
+        "publishedDate": "1988-05-07T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/29423a37-425f-4d9c-941e-3c377067e048.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/7643",
+        "seriesNumber": "2",
+        "authors": "Douglas Adams",
+        "title": "Long Dark Tea Time of the Soul",
+        "series": "Dirk Gently",
+        "description": "Douglas Adams for those who may not be familiar with either him or his books writes rather tangentialy than linearly, this consideration may help those, possibly especially Americans who don't seem to fathom his humour. This thought may also help explain the rationale behind the eponymous hero Svlad Cjelli the...",
+        "subjects": [
+          "Modern fiction",
+          "Science Fiction",
+          "General",
+          "Fiction",
+          "Fantasy",
+          "Fiction / Science Fiction / General",
+          "Science fiction"
+        ],
+        "publishedDate": "1991-02-15T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/46880123-bc00-4ea4-9d95-33243bcc53f7.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/164397",
+        "seriesNumber": "",
+        "authors": "Douglas Adams",
+        "title": "So Long, and Thanks for All the Fish",
+        "subjects": [
+          "Humour",
+          "Science fiction",
+          "English",
+          "Humor"
+        ],
+        "publishedDate": "2002-03-08T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/703698a6-d832-47a5-b805-5395d8bcc50c.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664418",
+        "seriesNumber": "",
+        "authors": "Rebecca Godfrey",
+        "title": "Under the Bridge",
+        "subjects": [
+          "Infamous Crimes And Criminals",
+          "Murder",
+          "True Crime",
+          "True Crime / Espionage",
+          "General",
+          "True Crime / General"
+        ],
+        "publishedDate": "2007-02-27T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/a753224b-ef1c-40e1-a017-6908c406fb00.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664415",
+        "seriesNumber": "",
+        "authors": "Lewis Carroll",
+        "title": "Alice's Adventures in Wonderland",
+        "description": "On an ordinary summer's afternoon, Alice tumbles down a hole and an extraordinary adventure begins. In a strange world with even stranger characters, she meets a rabbit with a pocket watch, joins a Mad Hatter's Tea Party, and plays croquet with the Queen! Lost in this fantasy land, Alice finds...",
+        "publishedDate": "2009-12-17T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/571699",
+        "seriesNumber": "",
+        "authors": "Lewis Carroll",
+        "title": "Through the Looking-glass by Lewis Carroll",
+        "publishedDate": "2021-09-27T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/321000",
+        "seriesNumber": "",
+        "authors": "Rick Riordan",
+        "title": "Percy Jackson Collection. Percy Jackson and the Lightning Thief, the Last Olympian, the Titans Curse, the Sea of Monsters, the Battle of the Labyrinth and the Demigod File",
+        "publishedDate": null,
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/461f0e99-863a-4501-b5fd-b7383f5a5a43.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/64272",
+        "seriesNumber": "",
+        "authors": "Rick Riordan",
+        "title": "The Sea of Monsters (percy Jackson and the Olympians, Book 2)",
+        "series": "Percy Jackson and the Olympians (2)",
+        "description": "Cool Book",
+        "subjects": [
+          "Juvenile Fiction",
+          "Science Fiction, Fantasy, & Magic",
+          "Friendship",
+          "Children's Books/Ages 9",
+          "12 Fiction",
+          "Mythology, Greek",
+          "Children: Young Adult (Gr. 7",
+          "9)",
+          "Legends, Myths, & Fables",
+          "Greek & Roman",
+          "General",
+          "Action & Adventure",
+          "Juvenile Fiction / General",
+          "Juvenile Fiction / Science Fiction, Fantasy, Magic",
+          "Children's All Ages",
+          "Camps",
+          "Fiction"
+        ],
+        "publishedDate": "2006-04-01T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/0a676f35-73cf-4c04-bccd-4a9ddbeaca2f.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/130420",
+        "seriesNumber": "",
+        "authors": "Rick Riordan",
+        "title": "The Titan's Curse (percy Jackson and the Olympians, #3)",
+        "publishedDate": "2007-05-27T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/91cbeceb-a047-4611-b47a-a567ce005f08.io/img/entities/0956930fa4d7c5b03e81558656410a262e9526a6"
+      },
+      {
+        "id": "https://bookwyrm.social/book/101955",
+        "seriesNumber": "",
+        "authors": "Rick Riordan",
+        "title": "Percy Jackson and the Sword of Hades; Horrible Histories - Groovy Greeks",
+        "publishedDate": "2009-01-16T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/236748c7-5dba-43d2-9d13-74b029775318.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/229988",
+        "seriesNumber": "",
+        "authors": "Rick Riordan",
+        "title": "The Demigod Files (a Percy Jackson and the Olympians Guide)",
+        "series": "Percy Jackson and the Olympians",
+        "subjects": [
+          "Children's Books",
+          "Literature",
+          "Science Fiction, Fantasy, Mystery & Horror",
+          "Science Fiction, Fantasy, & Magic"
+        ],
+        "publishedDate": "2009-02-10T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/c0f287c6-43c6-4a02-8c96-b179a9352331.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/101979",
+        "seriesNumber": "",
+        "authors": "Kal Peter Wayne, Zalzar Mech Fa, Rick Riordan",
+        "title": "The Lost Hero",
+        "publishedDate": "2010-02-25T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/5260c771-5333-49d9-a3b4-1b8fdd4e0a7d.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/653414",
+        "seriesNumber": "",
+        "authors": "Rick Riordan",
+        "title": "Battle of the Labyrinth",
+        "subtitle": "The Graphic Novel",
+        "publishedDate": "2018-12-09T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/651958",
+        "seriesNumber": "",
+        "authors": "J.R.R. Tolkien",
+        "title": "Fellowship of the Ring - Being the First Part of the Lord of the Rings  by Tolkien, Jrr [paperback ]",
+        "publishedDate": "2005-03-03T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/50603",
+        "seriesNumber": "1",
+        "authors": "Stephenie Meyer",
+        "title": "Twilight",
+        "series": "Twilight",
+        "description": "Twilight is a 2005 young adult vampire-romance novel by author Stephenie Meyer. It is the first book in the Twilight series, and introduces seventeen-year-old Isabella \"Bella\" Swan, who moves from Phoenix, Arizona to Forks, Washington.",
+        "publishedDate": "2006-11-12T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/866cf666-6d8e-46df-ab2c-6c80227dd2c0.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/421314",
+        "seriesNumber": "",
+        "authors": "J.R.R. Tolkien",
+        "title": "The Hobbit",
+        "publishedDate": null,
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/438962",
+        "seriesNumber": "",
+        "authors": "Stephenie Meyer",
+        "title": "New Moon",
+        "series": "Twilight (2)",
+        "description": "When the Cullens, including her beloved Edward, leave Forks rather than risk revealing that they are vampires, it is almost too much for eighteen-year-old Bella to bear, but she finds solace in her friend Jacob until he is drawn into a \"cult\" and changes in terrible ways.",
+        "subjects": [
+          "School & Education",
+          "Werewolves",
+          "Juvenile Fiction",
+          "General",
+          "Children's Books",
+          "Young Adult Fiction",
+          "Vampires",
+          "Children: Young Adult (Gr. 10",
+          "12)",
+          "Science Fiction, Fantasy, & Magic",
+          "Love & Romance",
+          "Horror & Ghost Stories",
+          "Juvenile Fiction / General",
+          "Fiction",
+          "High schools"
+        ],
+        "publishedDate": "2006-08-21T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/0c5b1450-bca8-4c6b-97ae-b6c655a1f39a.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/328446",
+        "seriesNumber": "",
+        "authors": "Stephenie Meyer",
+        "title": "Eclipse (twilight #3)",
+        "publishedDate": "2007-08-14T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/a6de04fc-8f9a-4df8-a688-ba2803f8d2d9.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/241724",
+        "seriesNumber": "",
+        "authors": "Stephenie Meyer",
+        "title": "Breaking Dawn (twilight #4)",
+        "publishedDate": "2008-09-15T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/9b39b21b-1f9a-4f27-b843-63c4f0253728.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/16823",
+        "seriesNumber": "3",
+        "authors": "Suzanne Collins",
+        "title": "Mockingjay",
+        "series": "The Hunger Games",
+        "description": "Katniss Everdeen's having survived the Hunger Games twice makes her a target of the Capitol and President Snow, as well as a hero to the rebels who will succeed only if Katniss is willing to put aside her personal feelings and serve as their pawn.",
+        "publishedDate": "2010-07-10T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/c2239814-f90d-4192-b29e-5d45176b5319.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/16953",
+        "seriesNumber": "1",
+        "authors": "Suzanne Collins",
+        "title": "The Hunger Games",
+        "series": "The Hunger Games",
+        "description": "Could you survive on your own, in the wild, with everyone out to make sure you don't live to see the morning? In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh...",
+        "subjects": [
+          "Survival",
+          "Fiction",
+          "Television programs",
+          "Interpersonal relations",
+          "Contests",
+          "Science fiction"
+        ],
+        "publishedDate": "2008-10-03T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/f4642fa6-8798-40c9-af9b-850befdbaede.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/16887",
+        "seriesNumber": "",
+        "authors": "Suzanne Collins",
+        "title": "Catching Fire",
+        "series": "The Hunger Games, #2",
+        "description": "Sparks are igniting. Flames are spreading. And the Capitol wants revenge. Against all odds, Katniss has won the Hunger Games. She and fellow District 12 tribute Peeta Mellark are miraculously still alive. Katniss should be relieved, happy even. After all, she has returned to her family and her longtime friend,...",
+        "subjects": [
+          "Insurgency",
+          "Fiction",
+          "Survival",
+          "Television programs",
+          "Interpersonal relations",
+          "Contests",
+          "Science fiction"
+        ],
+        "publishedDate": "2009-09-11T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/220a66f3-084d-49b3-8f26-61a1b951a528.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/18377",
+        "seriesNumber": "",
+        "authors": "Richard Adams",
+        "title": "Watership Down",
+        "publishedDate": "1975-06-11T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/de3c3681-3ba4-4d1b-a581-9c7088fb9fdd.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/120750",
+        "seriesNumber": "",
+        "authors": "Guillermo del Toro",
+        "title": "The Strain",
+        "series": "The Strain Trilogy -- Bk. 1",
+        "subjects": [
+          "Vampires",
+          "Fiction"
+        ],
+        "publishedDate": "2009-04-17T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/45b336cb-bf72-4b36-8afc-598fd346def4.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/233258",
+        "seriesNumber": "",
+        "authors": "Guillermo del Toro",
+        "title": "The Fall",
+        "series": "The Strain Trilogy -- Bk. 2",
+        "subjects": [
+          "Vampires",
+          "Fiction"
+        ],
+        "publishedDate": "2010-10-10T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/21589",
+        "seriesNumber": "",
+        "authors": "Michael Crichton",
+        "title": "The Andromeda Strain",
+        "description": "The United States government is given a warning by the pre-eminent biophysicists in the country: current sterilization procedures applied to returning space probes may be inadequate to guarantee uncontaminated re-entry to the atmosphere. Two years later, seventeen satellites are sent into the outer fringes of space to collect organisms and...",
+        "subjects": [
+          "Science Fiction",
+          "General",
+          "Fiction",
+          "Fiction / General"
+        ],
+        "publishedDate": "2003-11-11T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/9330583-M.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/233256",
+        "seriesNumber": "",
+        "authors": "Guillermo del Toro",
+        "title": "Night Eternal",
+        "subtitle": "Book Three of the Strain Trilogy",
+        "subjects": [
+          "Vampires",
+          "Fiction"
+        ],
+        "publishedDate": "2011-10-10T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/351489",
+        "seriesNumber": "",
+        "authors": "Margaret Atwood",
+        "title": "The Blind Assassin",
+        "subjects": [
+          "Sisters",
+          "Death",
+          "Fiction",
+          "Widows"
+        ],
+        "publishedDate": "2001-03-16T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/141152",
+        "seriesNumber": "1",
+        "authors": "Margaret Atwood",
+        "title": "Handmaid's Tale",
+        "series": "The Handmaid's Tale",
+        "description": "It is the world of the near future, and Offred is a Handmaid in the home of the Commander and his wife. She is allowed out once a day to the food market, she is not permitted to read, and she is hoping the Commander makes her pregnant, because she...",
+        "subjects": [
+          "Canadian fiction (fictional works by one author)",
+          "Fiction, fantasy, general",
+          "Man",
+          "woman relationships, fiction",
+          "Fiction, dystopian"
+        ],
+        "publishedDate": "1998-03-16T05:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/69a44c38-2a24-4d21-9bc5-4a5ed6013ff4.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/632708",
+        "seriesNumber": "",
+        "authors": "Jane Austen",
+        "title": "Pride and Prejudice(a Classics Novel by Jane Austen)",
+        "publishedDate": "2022-11-24T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/249b78df-2fc1-4566-9d7b-9426340c5bac.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/191427",
+        "seriesNumber": "",
+        "authors": "J. G. Ballard",
+        "title": "Crash",
+        "subjects": [
+          "Traffic accidents",
+          "Fiction.",
+          "Traffic accident victims",
+          "Obsessive",
+          "compulsive disorder",
+          "Women",
+          "Crimes against",
+          "Male friendship"
+        ],
+        "publishedDate": "2001-08-29T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/d38ba3b6-4337-4292-8555-0333ca81b0e1.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/148812",
+        "seriesNumber": "",
+        "authors": "Hunter S. Thompson",
+        "title": "Fear and Loathing in Las Vegas",
+        "publishedDate": "1998-09-06T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/42659eb0-9a0c-43bd-a37b-8be24883d13f.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/30111",
+        "seriesNumber": "",
+        "authors": "Clive Barker",
+        "title": "The Hellbound Heart",
+        "subjects": [
+          "Modern fiction",
+          "Fiction",
+          "Horror",
+          "General",
+          "Fiction / Horror"
+        ],
+        "publishedDate": "1991-11-01T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/43011-M.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/265633",
+        "seriesNumber": "",
+        "authors": "Clive Barker",
+        "title": "The Damnation Game",
+        "publishedDate": "2002-12-06T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/a8ee5679-7217-41b5-ad90-8007feb88d0d.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/170240",
+        "seriesNumber": "",
+        "authors": "James Herbert",
+        "title": "The Rats",
+        "subjects": [
+          "Horror & Ghost Stories",
+          "Modern fiction",
+          "Fiction",
+          "General",
+          "Mystery/Suspense",
+          "Animals",
+          "Mice  Hamsters  Guinea Pigs  etc.",
+          "CHILDREN'S FICTION",
+          "HORROR STORIES",
+          "Juvenile Fiction / Horror & Ghost Stories",
+          "RATS_FICTION",
+          "Mystery & Detective"
+        ],
+        "publishedDate": "2003-02-01T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/c7d0434b-6190-4689-aff1-abdeec93df88.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/664424",
+        "seriesNumber": "",
+        "authors": "James Herbert",
+        "title": "The Jonah",
+        "subjects": [
+          "Horror & ghost stories",
+          "Fiction",
+          "Espionage / Thriller",
+          "Mystery/Suspense",
+          "Thrillers",
+          "Fiction / Thrillers",
+          "Mystery & Detective",
+          "General"
+        ],
+        "publishedDate": "1999-11-01T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/65450273-0d3d-4292-b54a-14eda2a6335b.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/194926",
+        "seriesNumber": "",
+        "authors": "James Herbert",
+        "title": "The Fog",
+        "subjects": [
+          "Horror & Ghost Stories",
+          "Modern fiction",
+          "Fiction",
+          "General",
+          "Mystery/Suspense",
+          "Action & Adventure",
+          "Nature & the Natural World",
+          "Literature & Fiction",
+          "CHILDREN'S FICTION",
+          "EARTHQUAKES_FICTION",
+          "FOG_FICTION",
+          "Fiction / Thrillers",
+          "HORROR STORIES",
+          "Juvenile Fiction / Action & Adventure",
+          "VIOLENCE_FICTION",
+          "Mystery & Detective"
+        ],
+        "publishedDate": "2003-03-01T00:00:00.000Z",
+        "cover": null
+      },
+      {
+        "id": "https://bookwyrm.social/book/534441",
+        "seriesNumber": "",
+        "authors": "James Herbert",
+        "title": "The Spear",
+        "subjects": [
+          "Horror & ghost stories",
+          "Fiction",
+          "Espionage / Thriller",
+          "Mystery/Suspense",
+          "Thrillers",
+          "Literature & Fiction",
+          "Fiction / Thrillers",
+          "Mystery & Detective",
+          "General"
+        ],
+        "publishedDate": "1999-11-10T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/98c2452e-b791-4251-ae28-de8807ddffb2.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/534453",
+        "seriesNumber": "",
+        "authors": "James Herbert",
+        "title": "Creed",
+        "subjects": [
+          "Horror & ghost stories"
+        ],
+        "publishedDate": "2001-07-20T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/2ce54e83-8906-44e1-a4a5-969032a94bff.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/18315",
+        "seriesNumber": "",
+        "authors": "Brian Jacques",
+        "title": "Redwall",
+        "series": "Redwall (1)",
+        "subjects": [
+          "Fantasy",
+          "Science Fiction, Fantasy, & Magic",
+          "Juvenile Fiction / Science Fiction, Fantasy, Magic",
+          "Children's Books/Ages 9",
+          "12 Fiction"
+        ],
+        "publishedDate": "2006-09-04T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/919096-M_5ZS6N2j.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/125719",
+        "seriesNumber": "",
+        "authors": "Brian Jacques",
+        "title": "Mossflower (redwall, #2)",
+        "series": "Redwall (2)",
+        "publishedDate": "1998-05-12T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/052ae914-d1e5-400e-9f0f-90071a79ad4b.io/img/entities/e891dd7d22f84cb441ad4e151f9d0a1273551a72"
+      },
+      {
+        "id": "https://bookwyrm.social/book/130030",
+        "seriesNumber": "",
+        "authors": "Brian Jacques",
+        "title": "Mattimeo",
+        "subtitle": "A Tale from Redwall",
+        "series": "Redwall (3)",
+        "publishedDate": "1999-02-01T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/0767455f-3ef2-4d2d-a37b-3dea44bea33d.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/129956",
+        "seriesNumber": "",
+        "authors": "Brian Jacques",
+        "title": "Salamandastron (redwall, Book 5)",
+        "series": "Redwall (5)",
+        "publishedDate": "2003-09-15T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/94a99b64-6f3d-4b78-afa6-dee2c1c15da0.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/129958",
+        "seriesNumber": "",
+        "authors": "Brian Jacques",
+        "title": "Mariel of Redwall",
+        "description": "The mousemaid Mariel achieves victory at sea for the animals of Redwall Abbey, fighting the savage pirate rat Gabool the Wild, warlord of rodent corsairs.",
+        "subjects": [
+          "Mice",
+          "Fiction",
+          "Animals",
+          "Pirates",
+          "Fantasy"
+        ],
+        "publishedDate": "2003-05-27T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/e69c9dd1-d213-47a7-af51-be954f87407e.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/19968",
+        "seriesNumber": "",
+        "authors": "Bill Bryson",
+        "title": "A Short History of Nearly Everything",
+        "publishedDate": "2004-08-26T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/c06fa070-9b9c-4cf9-a8e1-1c107fd486a2.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/370937",
+        "seriesNumber": "",
+        "authors": "Paulo Coelho",
+        "title": "Veronika Decides to Die",
+        "publishedDate": "2006-04-12T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/7a5f95fc-342b-4b2f-abd0-d33638fb9a39.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/34587",
+        "seriesNumber": "",
+        "authors": "Richard Dawkins",
+        "title": "The God Delusion",
+        "description": "A preeminent scientist—and the world's most prominent atheist—asserts the irrationality of belief in God and the grievous harm religion has inflicted on society, from the Crusades to 9/11. With rigor and wit, Dawkins examines God in all his forms, from the sex-obsessed tyrant of the Old Testament...",
+        "subjects": [
+          "Religion",
+          "Science",
+          "Philosophy",
+          "Atheism",
+          "Psychology",
+          "Spirituality",
+          "Theology",
+          "Evolution"
+        ],
+        "publishedDate": "2006-10-18T04:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/8740872-M.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/26306",
+        "seriesNumber": "",
+        "authors": "Philip K. Dick",
+        "title": "The Minority Report",
+        "subjects": [
+          "Crime prevention",
+          "Fiction."
+        ],
+        "publishedDate": "2002-11-11T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/226833-M_crHape3.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/210072",
+        "seriesNumber": "",
+        "authors": "James Ellroy",
+        "title": "The Black Dahlia",
+        "subjects": [
+          "Police",
+          "California",
+          "Los Angeles",
+          "Fiction.",
+          "Young women",
+          "Los Angeles (Calif.)"
+        ],
+        "publishedDate": "2006-09-10T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/db50d540-03eb-4dc5-b657-1770f5e82452.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/23730",
+        "seriesNumber": "",
+        "authors": "Neil Gaiman",
+        "title": "Coraline",
+        "description": "When Coraline steps through a door to find another house strangely similar to her own (only better), things seem marvelous. But there's another mother there, and another father, and they want her to stay and be their little girl. They want to change her and never let her go. Coraline...",
+        "subjects": [
+          "Juvenile Fiction",
+          "Fiction / General",
+          "Science Fiction, Fantasy, & Magic"
+        ],
+        "publishedDate": "2006-08-28T22:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/Coraline-667x1024.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/23677",
+        "seriesNumber": "",
+        "authors": "Neil Gaiman",
+        "title": "Stardust",
+        "subjects": [
+          "Literary",
+          "English Science Fiction And Fantasy",
+          "Fiction",
+          "Fantasy",
+          "Action & Adventure",
+          "Historical",
+          "Fiction / General",
+          "General"
+        ],
+        "publishedDate": "2006-08-29T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/2991010b-c3ed-4ce4-8a7c-df2d28a7b94f.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/6627",
+        "seriesNumber": "",
+        "authors": "Neil Gaiman",
+        "title": "The Ocean at the End of the Lane",
+        "description": "A middle-aged man returns to his childhood home to attend a funeral. Although the house he lived in is long gone, he is drawn to the farm at the end of the road, where, when he was seven, he encountered a most remarkable girl, Lettie Hempstock, and her mother and...",
+        "publishedDate": "2013-06-18T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/4b361995-90cf-44f9-9f49-535c35982711.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/153534",
+        "seriesNumber": "",
+        "authors": "William Gibson, Gibson,William",
+        "title": "Johnny Mnemonic",
+        "publishedDate": "1996-07-30T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/60368cf6-1745-40e4-bc44-66cf32ad3bf5.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/453",
+        "seriesNumber": "",
+        "authors": "William Golding",
+        "title": "Lord of the Flies",
+        "subtitle": "(Penguin Great Books of the 20th Century) (penguin Great Books of the 20th Century)",
+        "publishedDate": "1999-10-01T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/0541015b-7455-478b-b8b4-6ad0a52ea95d.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/224972",
+        "seriesNumber": "",
+        "authors": "William Goldman",
+        "title": "The Princess Bride",
+        "description": "The Princess Bride is a timeless tale that pits country against country, good against evil, love against hate. This incredible journey and artfully rendered love story is peppered with strange beasties monstrous and gentle, memorable surprises both terrible and sublime, and such unforgettable characters as... Westley , the handsome farm boy...",
+        "publishedDate": "2003-07-15T04:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/a51a469d-5dba-4c77-9ef6-43f599d30bae.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/137718",
+        "seriesNumber": "",
+        "authors": "Seth Grahame-Smith",
+        "title": "Abraham Lincoln, Vampire Hunter",
+        "publishedDate": "2010-06-18T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/80b47135-6194-4278-8acd-5ce71b42fbfb.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/207217",
+        "seriesNumber": "",
+        "authors": "John Grisham",
+        "title": "The Runaway Jury",
+        "description": "An anonymous woman tips officials that the jury for a multimillion dollar trial surrounding the tobacco industry may be tampered with.",
+        "publishedDate": "2006-04-24T07:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/b5d19493-0bbf-460a-bcc2-cade6dc0d787."
+      },
+      {
+        "id": "https://bookwyrm.social/book/147799",
+        "seriesNumber": "",
+        "authors": "John Green",
+        "title": "The Fault in Our Stars",
+        "publishedDate": "2014-04-08T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/2e61eb8f-8442-4851-bc8a-b0a518e3ae92.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/156103",
+        "seriesNumber": "1",
+        "authors": "Stieg Larsson",
+        "title": "The Girl with the Dragon Tattoo",
+        "series": "Millenium",
+        "description": "Journalist Mikael Blomkvist and hacker Lisbeth Salander investigate the disappearance of Harriet Vanger which took place forty years ago.",
+        "subjects": [
+          "Journalists",
+          "Fiction",
+          "Missing persons",
+          "Investigation",
+          "Hackers"
+        ],
+        "publishedDate": "2008-09-10T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/10fb3109-f347-4953-bc68-75d430c97c81.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/60163",
+        "seriesNumber": "2",
+        "authors": "Stieg Larsson",
+        "title": "The Girl Who Played with Fire",
+        "series": "The Millennium Trilogy",
+        "description": "Mikael Blomkvist, crusading publisher of the magazine Millennium, has decided to run a story that will expose an extensive sex trafficking operation. On the eve of its publication, the two reporters responsible for the article are murdered, and the fingerprints found on the murder weapon belong to his friend, the...",
+        "publishedDate": "2009-01-06T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/38318466._SY475__WcT9fxs.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/60137",
+        "seriesNumber": "3",
+        "authors": "Stieg Larsson",
+        "title": "The Girl Who Kicked the Hornet's Nest",
+        "series": "Millenium",
+        "description": "Lisbeth Salander—the heart of Larsson’s two previous novels—lies in critical condition, a bullet wound to her head, in the intensive care unit of a Swedish city hospital. She’s fighting for her life in more ways than one: if and when she recovers, she’ll be taken...",
+        "subjects": [
+          "Political corruption",
+          "Sweden",
+          "Fiction",
+          "Revenge"
+        ],
+        "publishedDate": "2010-09-10T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/526ab731-8865-4e7d-a052-5b1e1e922d51.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/8043",
+        "seriesNumber": "",
+        "authors": "George R.R. Martin",
+        "title": "A Game of Thrones",
+        "series": "A Song of Ice and Fire, #1",
+        "subjects": [
+          "Martin, George R. R.",
+          "Prose & Criticism",
+          "Fiction",
+          "Fantasy",
+          "Epic",
+          "Series",
+          "Fiction / Fantasy / Epic"
+        ],
+        "publishedDate": "2005-08-16T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/5f06e8cd-b602-4fc5-bfac-66313e7c942f.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/6603",
+        "seriesNumber": "",
+        "authors": "George R.R. Martin",
+        "title": "A Clash of Kings (a Song of Ice and Fire, Book 2)",
+        "series": "Song of Ice and Fire (2)",
+        "subjects": [
+          "Fiction",
+          "Fantasy",
+          "Epic",
+          "Series",
+          "Fiction / Fantasy / Epic",
+          "Fantasy fiction"
+        ],
+        "publishedDate": "2002-05-28T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/370009-M.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/6984",
+        "seriesNumber": "3",
+        "authors": "George R.R. Martin",
+        "title": "A Storm of Swords",
+        "series": "A Song of Ice and Fire",
+        "description": "A Storm of Swords is the third of seven planned novels in A Song of Ice and Fire, a fantasy series by American author George R. R. Martin. It was first published on August 8, 2000, in the United Kingdom, with a United States edition following in November 2000. Its...",
+        "publishedDate": "2015-09-14T07:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/10d8065d-9368-462b-9479-f502c71e606b.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/6952",
+        "seriesNumber": "4",
+        "authors": "George R.R. Martin",
+        "title": "A Feast for Crows",
+        "series": "A Song of Ice and Fire",
+        "description": "Crows will fight over a dead man's flesh, and kill each other for his eyes. Bloodthirsty, treacherous and cunning, the Lannisters are in power on the Iron Throne in the name of the boy-king Tommen. The war in the Seven Kingdoms has burned itself out, but in its bitter aftermath...",
+        "subjects": [
+          "American Science Fiction And Fantasy",
+          "Fiction",
+          "Fantasy",
+          "Historical",
+          "Science Fiction",
+          "Epic",
+          "General",
+          "Fiction / Fantasy / Epic"
+        ],
+        "publishedDate": "2006-09-26T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/13497.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/6950",
+        "seriesNumber": "5",
+        "authors": "George R.R. Martin",
+        "title": "A Dance with Dragons",
+        "series": "A Song of Ice and Fire",
+        "description": "In the aftermath of a colossal battle, the future of the Seven Kingdoms hangs in the balance—beset by newly emerging threats from every direction. In the east, Daenerys Targaryen, the last scion of House Targaryen, rules with her three dragons as queen of a city built on dust and...",
+        "publishedDate": "2011-09-11T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/6254a43a-a8c0-4c49-aa43-e32a433ef854.jpeg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/4614",
+        "seriesNumber": "",
+        "authors": "Chuck Palahniuk",
+        "title": "Choke",
+        "subtitle": "A Novel",
+        "subjects": [
+          "Alzheimer's disease",
+          "Patients",
+          "Fiction",
+          "Sex addiction"
+        ],
+        "publishedDate": "2002-06-11T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/904b2980-e50e-4a69-8c18-7682b61ef4d4.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/118434",
+        "seriesNumber": "",
+        "authors": "Chuck Palahniuk",
+        "title": "Snuff",
+        "description": "A full-frontal triple-X novel that goes where no American work of fiction has gone before. A porn star intends to cap her career by breaking the record for on-screen fornication.",
+        "subjects": [
+          "Snuff films",
+          "Fiction",
+          "Motion picture actors and actresses",
+          "United States",
+          "Sexual intercourse",
+          "World records"
+        ],
+        "publishedDate": "2008-04-14T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/71303faf-25f3-4e41-ae54-dc0c2ee2720a.jpg"
+      },
+      {
+        "id": "https://bookwyrm.social/book/15626",
+        "seriesNumber": "",
+        "authors": "Chuck Palahniuk",
+        "title": "Haunted",
+        "subtitle": "A Novel",
+        "subjects": [
+          "Artists",
+          "Fiction",
+          "Prisoners",
+          "Torture",
+          "Social isolation"
+        ],
+        "publishedDate": "2006-04-04T00:00:00.000Z",
+        "cover": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/4f3168e2-0647-4860-9c02-7ed7e85cd10c.jpg"
+      }
+    ],
+    "count": 148
+  }
+}

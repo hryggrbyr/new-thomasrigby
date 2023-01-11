@@ -29,6 +29,7 @@
     "eleventy-plugin-helmet": "^0.2.2",
     "eleventy-plugin-pwa": "^1.0.8",
     "excerpts": "^0.0.1",
+    "fs-extra": "^11.1.0",
     "html-minifier-terser": "^7.1.0",
     "outdent": "^0.8.0",
     "strumenti": "^1.0.9",
