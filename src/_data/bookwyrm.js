@@ -1,7 +1,10 @@
 const EleventyFetch = require('@11ty/eleventy-fetch');
 const fetch = require('isomorphic-fetch');
+const fs = require('fs-extra')
 const excerpt = require('excerpts');
 const toTitleCase = require('to-title-case');
+
+const dataPath = 'src/_data/books.json'
 
 const getUrl = async (url) => await EleventyFetch(url, {
   duration: '1w',
@@ -36,17 +39,18 @@ const getBook = async ({
       subjects
     } = bookData
     const book = {
-      authors,
       id,
       seriesNumber
     }
+    if (authors && authors.length) book.authors = [...new Set(authors)].join(', ')
     if (title) book.title = toTitleCase(title)
     if (subtitle) book.subtitle = toTitleCase(subtitle)
     if (series) book.series = toTitleCase(series)
     if (description) book.description = excerpt(description)
-    if (subjects && subjects.length) book.subjects = [...new Set(subjects.map(x => x.split('-')).flat().map(x => x.split('-')).flat().map(x => x.trim()).filter(Boolean))]
+    if (subjects && subjects.length) book.subjects = subjects
+    // if (subjects && subjects.length) book.subjects = [...new Set(subjects.map(x => x.split('-')).flat().map(x => x.split('-')).flat().map(x => x.trim()).filter(Boolean))]
     // console.log(book.subjects)
-    book.publishedDate = new Date(publishedDate || firstPublishedDate)
+    book.publishedDate = new Date(firstPublishedDate || publishedDate)
     book.cover = cover ? cover.url : null
     return book
   }
@@ -81,6 +85,7 @@ const getShelf = async shelf => {
   obj[shelf].url = response.first || null
   obj[shelf].title = response.name || null
   obj[shelf].books = await getBooks(response) || []
+  obj[shelf].count = obj[shelf].books.length
   // console.log(obj[shelf])
   return obj[shelf]
 }
